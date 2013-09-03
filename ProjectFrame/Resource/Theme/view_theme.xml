@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SCMP>
+    <!--components-->
+    <theme key="navigation_title" fontSize="17.0f" textColor="whiteColor" fontName="HelveticaNeue-Bold" />
+    <theme key="navigation_titleHelveticaNeueBold" fontSize="17.0f" textColor="whiteColor" fontName="HelveticaNeue-Bold" />
+
+    <theme key="tabbarController_label" fontSize="12.0f" textColor="whiteColor" highlightColor="whiteColor"  />
+    <theme key="tabbarController_label2" fontSize="14.0f" textColor="whiteColor" highlightColor="whiteColor"  />
+
+    <theme key="news_pluse_main_view" backgroundColor="#333333" />
+    <theme key="news_pluse_header_bold" fontName="HelveticaNeue-Bold" fontSize="11.0f" textColor="whiteColor" />
+    <theme key="news_pluse_header_normal" fontName="HelveticaNeue" fontSize="11.0f" textColor="whiteColor" />
+
+    <theme key="news_cell_topest" fontSize="15.0f" fontName="Georgia" textColor="whiteColor" />
+    <theme key="news_cell_title" fontSize="11.0f" fontName="Georgia" />
+    <theme key="news_cell_desciption" fontSize="15.0f" fontName="Georgia" textColor="blackColor" />
+    <theme key="news_cell_count" fontSize="11.0f" textColor="#f3780f" />
+    <theme key="news_cell_topest_title" fontSize="16.0f" fontName="Georgia" textColor="blackColor" />
+    <theme key="news_cell_createdate" fontSize="12.0f" textColor="#666666" />
+
+
+    <theme key="pulltoRefresh_title" textColor="whiteColor" fontSize="14.0f" fontBold="1" />
+    <theme key="pulltoRefresh_date" textColor="whiteColor" fontSize="13.0f"  />
+
+    <theme key="iscoop_title" textColor="whiteColor" fontSize="19.0f" fontName="Georgia" fontBold="1" />
+    <theme key="iscoop_desciption" textColor="blackColor" fontSize="14.0f" />
+    <theme key="iscoop_cell_label" textColor="blackColor" fontSize="12.0f" fontBold="1" />
+    
+    <theme key="menu_title" textColor="whiteColor" fontSize="16.0f" />
+    <theme key="image_buton_label" textColor="#999999" highlightColor="whiteColor" fontBold="1" fontSize="12.5f" />
+    <theme key="menu_cell_label" textColor="blackColor" fontName="HelveticaNeue-Bold" fontSize="16.0f" fontBold="1" />
+    <theme key="menu_cell_header" fontName="HelveticaNeue-Bold" textColor="whiteColor" fontSize="16.0f" fontBold="1" />
+    <theme key="menu_cell_header2" fontName="HelveticaNeue-Bold" textColor="whiteColor" fontSize="17.0f" fontBold="1" />
+
+    
+    <theme key="landscapepic_title" textColor="whiteColor" fontSize="12.0f" fontName="Arial" />
+    <theme key="landscapepic_title1" textColor="whiteColor" fontSize="15.0f" fontName="Georgia" />
+    
+    <theme key="landscapevideo_image" backgroundColor="#F4F0EB" />
+    <theme key="landscapevideo_title" fontSize="12.0f" textColor="blackColor" />
+    <theme key="landscapevideo_desciption" fontSize="11.0f" textColor="blackColor" />
+    <theme key="landscapevideo_date" fontName="Arial" fontSize="9.0f" textColor="darkGrayColor" />
+
+    <theme key="detail_header_button" fontName="Arial-BoldMT" fontSize="11.0f" textColor="blackColor" fontBold="1" />
+    <theme key="detail_bg" backgroundColor="whiteColor" />
+    <theme key="detail_white_bg" backgroundColor="whiteColor" />
+
+    <theme key="detail_title" fontName="Georgia" fontSize="20.0f" textColor="blackColor" fontBold="1" />
+    <theme key="detail_remart" fontSize="14.0f" textColor="#91908D" fontBold="1" />
+    <theme key="detail_smart_remark" fontName="Arial" fontSize="11.0f" textColor="#2C7AA0" />
+    <theme key="detail_date" fontName="Arial-BoldMT" fontSize="11.0f" textColor="#363437" />
+    <theme key="detail_update" fontName="Arial" fontSize="11.0f" textColor="#F7790F" />
+    <theme key="detail_description" fontName="Arial" fontSize="13.0f" textColor="#363437" />
+    <theme key="detail_command_view" backgroundColor="whiteColor" />
+    <theme key="detail_command_header_title" fontSize="16.0f" fontName="Georgia" textColor="#0A6290" fontBold="1" />
+    <theme key="detail_command_header_descrition" fontSize="11.0f" fontName="Arial" textColor="blackColor" />
+    <theme key="detail_command_header_postbutton" fontSize="15.0f" fontName="Arial-BoldMT" textColor="whiteColor" fontBold="1" />
+    <theme key="detail_command_header_allcomment" fontSize="13.0f" fontName="Arial-Black" textColor="#0e6c97" fontBold="1" />
+    <theme key="detail_command_header_number" fontSize="12.0f" fontName="Arial" textColor="whiteColor" fontBold="1" />
+    <theme key="detail_command_header_line" backgroundColor="#0e6c97" />
+    <theme key="detail_command_list_name" textColor="#626262" fontName="Arial" fontSize="12.0f" fontBold="1" />
+    <theme key="detail_command_list_date" textColor="grayColor" fontName="Arial" fontSize="12.0f" />
+    <theme key="detail_command_list_button" textColor="whiteColor" fontName="Arial-BoldMT" fontSize="10.0f" fontBold="1" />
+    <theme key="detail_command_list_description" textColor="blackColor" fontName="Arial" fontSize="11.5f" fontBold="1" />
+    <theme key="detail_action_sheet_title" textColor="whiteColor" fontSize="17.0f" fontBold="1"  />
+    <theme key="detail_action_sheet_title2" textColor="whiteColor" fontSize="15.0f"  />
+
+    <theme key="detail_subcommand_list_table" backgroundColor="#E0E0E0" />
+    <theme key="detail_subcommand_list_table2" backgroundColor="whiteColor" />
+
+    <theme key="iscoop_option" textColor="grayColor" fontSize="15.0f" />
+    <theme key="textview_placeholder" textColor="#cccccc" fontName="HelveticaNeue" fontSize="15.0f" />
+    <theme key="action_sheet_button" textColor="whiteColor" fontSize="21.0f" fontBold="1" />
+    <theme key="action_sheet_button_black" textColor="blackColor" fontSize="21.0f" fontBold="1" />
+     <theme key="action_sheet_button1" textColor="whiteColor" fontSize="16.0f" fontBold="1" />
+
+    <theme key="shareactionsheet_title" fontSize="13.0f" textColor="whiteColor"  fontBold="1" />
+    <theme key="login_subscribe_title" textColor="whiteColor" fontSize="18.0f" fontBold="1" />
+    <theme key="iscoop_location_cell_label1" textColor="blackColor" />
+    <theme key="iscoop_location_cell_label2" textColor="#81B0CC" />
+    <theme key="thanks_title" textColor="whiteColor" fontName="Georgia" fontSize="20.0f" />
+    <theme key="thanks_title2" textColor="#005F84" fontSize="28.0f" fontBold="1" />
+
+    <theme key="thanks_description1" textColor="#CDCFCE" fontSize="15.0f" />
+    <theme key="thanks_description2" textColor="blackColor" fontSize="15.0f" fontBold="1" />
+    <theme key="thanks_description3" textColor="blackColor" fontSize="15.0f" />
+    <theme key="thanks_description4" textColor="#666666" fontSize="12.5f" />
+
+    <theme key="forget_title" textColor="whiteColor" fontSize="18.0f" fontBold="1" />
+    <theme key="forget_description" textColor="#CDCFCE" fontSize="15.0f" />
+
+    <theme key="alert_loading_label" textColor="whiteColor" fontSize="15.0f" />
+    <theme key="register_cell_label" textColor="blackColor" fontSize="17.0f" fontBold="1" />
+    <theme key="register_check_label" textColor="#C5C6C7" fontSize="13.0f" />
+    <theme key="register_check_label2" textColor="#C5C6C7" fontSize="16.0f" fontBold="1" />
+
+    <theme key="more_theme" textColor="whiteColor" fontName="HelveticaNeue-Bold" highlightColor="whiteColor" fontSize="13.0f" />
+    
+    <theme key="face_label" textColor="whiteColor" fontSize="15.0f" />
+    <theme key="logo_title" textColor="whiteColor" backgroundColor="clearColor" fontName="Helvetica" fontSize="28.0f" />
+    <theme key="logo_description" textColor="grayColor" fontSize="18.0f" />
+    <theme key="main_logo_description" textColor="whiteColor" fontSize="18.0f" />
+
+    <theme key="detail_headerimages_bg" backgroundColor="#333333" />
+    <theme key="detail_headerimages_pagecontrol" backgroundColor="blackColor" />
+    <theme key="detail_headerimages_label_bg" backgroundColor="#CCCCCC" />
+    <theme key="detail_headerimages_label" textColor="blackColor" fontSize="11.0f" />
+    <theme key="loading_image_bg" backgroundColor="#CCCCCC" />
+    <theme key="menu_confirm" fontSize="15.0f" fontBold="1" textColor="grayColor" highlightColor="whiteColor" />
+    <theme key="menu_segment" fontSize="16.0f" fontBold="1" />
+    
+    <theme key="subscriber_view" backgroundColor="#E6E6E6" />
+    <theme key="subscriber_view2" backgroundColor="#C9CCD3" />
+    <theme key="subscriber_oneyear_title" textColor="blackColor" fontSize="16.0f" fontBold="1" />
+
+    <!--view controllers-->
+</SCMP>

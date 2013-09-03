@@ -21,10 +21,34 @@
 		CE26B2FB17D5890600216231 /* AppUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2E117D5890600216231 /* AppUtil.m */; };
 		CE26B2FC17D5890600216231 /* AsyncTask.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2E317D5890600216231 /* AsyncTask.m */; };
 		CE26B2FD17D5890600216231 /* HttpClient.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2E517D5890600216231 /* HttpClient.m */; };
-		CE26B2FE17D5890600216231 /* LogUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2E717D5890600216231 /* LogUtil.m */; };
+		CE26B2FE17D5890600216231 /* Log.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2E717D5890600216231 /* Log.m */; };
 		CE26B2FF17D5890600216231 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE26B2E817D5890600216231 /* InfoPlist.strings */; };
 		CE26B30017D5890600216231 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2EA17D5890600216231 /* main.m */; };
 		CE26B30117D5890600216231 /* ProjectFrame-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CE26B2EB17D5890600216231 /* ProjectFrame-Info.plist */; };
+		CE26B30617D5D3C600216231 /* SettingsManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B30517D5D3C600216231 /* SettingsManager.m */; };
+		CE26B30917D5D98F00216231 /* DatabaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B30817D5D98F00216231 /* DatabaseManager.m */; };
+		CE26B30C17D5D99F00216231 /* APIManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B30B17D5D99F00216231 /* APIManager.m */; };
+		CE26B31317D5E22B00216231 /* Button.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B31217D5E22B00216231 /* Button.m */; };
+		CE26B31C17D5E4CB00216231 /* UserVo.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B31A17D5E4CB00216231 /* UserVo.m */; };
+		CE26B32017D5E59A00216231 /* BaseParser.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B31F17D5E59A00216231 /* BaseParser.m */; };
+		CE26B32317D5E5B200216231 /* UserParser.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B32217D5E5B200216231 /* UserParser.m */; };
+		CE26B32617D5E60300216231 /* NavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B32517D5E60300216231 /* NavigationController.m */; };
+		CE26B32917D5E67300216231 /* TabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B32817D5E67300216231 /* TabBarController.m */; };
+		CE26B32B17D5E6ED00216231 /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = CE26B32A17D5E6ED00216231 /* test.html */; };
+		CE26B32E17D5E75500216231 /* button_back.png in Resources */ = {isa = PBXBuildFile; fileRef = CE26B32C17D5E75500216231 /* button_back.png */; };
+		CE26B32F17D5E75500216231 /* button_back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE26B32D17D5E75500216231 /* button_back@2x.png */; };
+		CE26B33117D5E77C00216231 /* en.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33017D5E77C00216231 /* en.strings */; };
+		CE26B33417D5E86100216231 /* sc.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33217D5E86100216231 /* sc.strings */; };
+		CE26B33517D5E86100216231 /* tc.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33317D5E86100216231 /* tc.strings */; };
+		CE26B33717D5E8DB00216231 /* view_theme.xml in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33617D5E8DB00216231 /* view_theme.xml */; };
+		CE26B33B17D5E98D00216231 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B33917D5E98D00216231 /* HomeViewController.m */; };
+		CE26B33C17D5E98D00216231 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33A17D5E98D00216231 /* HomeViewController.xib */; };
+		CE26B34017D5EA4E00216231 /* SettingsController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B33E17D5EA4E00216231 /* SettingsController.m */; };
+		CE26B34117D5EA4E00216231 /* SettingsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33F17D5EA4E00216231 /* SettingsController.xib */; };
+		CE26B34617D5EAF300216231 /* PadHomeController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B34417D5EAF300216231 /* PadHomeController.m */; };
+		CE26B34717D5EAF300216231 /* PadHomeController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE26B34517D5EAF300216231 /* PadHomeController.xib */; };
+		CE26B34B17D5EB0D00216231 /* PadSettingsController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B34917D5EB0D00216231 /* PadSettingsController.m */; };
+		CE26B34C17D5EB0D00216231 /* PadSettingsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE26B34A17D5EB0D00216231 /* PadSettingsController.xib */; };
 		CE542E1D17D38A1A00022C53 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CE542E1C17D38A1900022C53 /* libsqlite3.dylib */; };
 		CE542E1F17D38A2C00022C53 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CE542E1E17D38A2C00022C53 /* libxml2.dylib */; };
 /* End PBXBuildFile section */
@@ -68,12 +92,49 @@
 		CE26B2E317D5890600216231 /* AsyncTask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AsyncTask.m; sourceTree = "<group>"; };
 		CE26B2E417D5890600216231 /* HttpClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HttpClient.h; sourceTree = "<group>"; };
 		CE26B2E517D5890600216231 /* HttpClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HttpClient.m; sourceTree = "<group>"; };
-		CE26B2E617D5890600216231 /* LogUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LogUtil.h; sourceTree = "<group>"; };
-		CE26B2E717D5890600216231 /* LogUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LogUtil.m; sourceTree = "<group>"; };
+		CE26B2E617D5890600216231 /* Log.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Log.h; sourceTree = "<group>"; };
+		CE26B2E717D5890600216231 /* Log.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Log.m; sourceTree = "<group>"; };
 		CE26B2E917D5890600216231 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CE26B2EA17D5890600216231 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CE26B2EB17D5890600216231 /* ProjectFrame-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ProjectFrame-Info.plist"; sourceTree = "<group>"; };
 		CE26B2EC17D5890600216231 /* ProjectFrame-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ProjectFrame-Prefix.pch"; sourceTree = "<group>"; };
+		CE26B30417D5D3C600216231 /* SettingsManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsManager.h; sourceTree = "<group>"; };
+		CE26B30517D5D3C600216231 /* SettingsManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsManager.m; sourceTree = "<group>"; };
+		CE26B30717D5D98F00216231 /* DatabaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DatabaseManager.h; sourceTree = "<group>"; };
+		CE26B30817D5D98F00216231 /* DatabaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DatabaseManager.m; sourceTree = "<group>"; };
+		CE26B30A17D5D99F00216231 /* APIManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APIManager.h; sourceTree = "<group>"; };
+		CE26B30B17D5D99F00216231 /* APIManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APIManager.m; sourceTree = "<group>"; };
+		CE26B31117D5E22B00216231 /* Button.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Button.h; sourceTree = "<group>"; };
+		CE26B31217D5E22B00216231 /* Button.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Button.m; sourceTree = "<group>"; };
+		CE26B31917D5E4CB00216231 /* UserVo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserVo.h; sourceTree = "<group>"; };
+		CE26B31A17D5E4CB00216231 /* UserVo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserVo.m; sourceTree = "<group>"; };
+		CE26B31E17D5E59A00216231 /* BaseParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseParser.h; sourceTree = "<group>"; };
+		CE26B31F17D5E59A00216231 /* BaseParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseParser.m; sourceTree = "<group>"; };
+		CE26B32117D5E5B200216231 /* UserParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserParser.h; sourceTree = "<group>"; };
+		CE26B32217D5E5B200216231 /* UserParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserParser.m; sourceTree = "<group>"; };
+		CE26B32417D5E60300216231 /* NavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigationController.h; sourceTree = "<group>"; };
+		CE26B32517D5E60300216231 /* NavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavigationController.m; sourceTree = "<group>"; };
+		CE26B32717D5E67300216231 /* TabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarController.h; sourceTree = "<group>"; };
+		CE26B32817D5E67300216231 /* TabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBarController.m; sourceTree = "<group>"; };
+		CE26B32A17D5E6ED00216231 /* test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
+		CE26B32C17D5E75500216231 /* button_back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_back.png; sourceTree = "<group>"; };
+		CE26B32D17D5E75500216231 /* button_back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_back@2x.png"; sourceTree = "<group>"; };
+		CE26B33017D5E77C00216231 /* en.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = en.strings; sourceTree = "<group>"; };
+		CE26B33217D5E86100216231 /* sc.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = sc.strings; sourceTree = "<group>"; };
+		CE26B33317D5E86100216231 /* tc.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = tc.strings; sourceTree = "<group>"; };
+		CE26B33617D5E8DB00216231 /* view_theme.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = view_theme.xml; sourceTree = "<group>"; };
+		CE26B33817D5E98D00216231 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		CE26B33917D5E98D00216231 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		CE26B33A17D5E98D00216231 /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		CE26B33D17D5EA4E00216231 /* SettingsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsController.h; sourceTree = "<group>"; };
+		CE26B33E17D5EA4E00216231 /* SettingsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsController.m; sourceTree = "<group>"; };
+		CE26B33F17D5EA4E00216231 /* SettingsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingsController.xib; sourceTree = "<group>"; };
+		CE26B34317D5EAF300216231 /* PadHomeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PadHomeController.h; sourceTree = "<group>"; };
+		CE26B34417D5EAF300216231 /* PadHomeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PadHomeController.m; sourceTree = "<group>"; };
+		CE26B34517D5EAF300216231 /* PadHomeController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PadHomeController.xib; sourceTree = "<group>"; };
+		CE26B34817D5EB0D00216231 /* PadSettingsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PadSettingsController.h; sourceTree = "<group>"; };
+		CE26B34917D5EB0D00216231 /* PadSettingsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PadSettingsController.m; sourceTree = "<group>"; };
+		CE26B34A17D5EB0D00216231 /* PadSettingsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PadSettingsController.xib; sourceTree = "<group>"; };
 		CE542E1C17D38A1900022C53 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 		CE542E1E17D38A2C00022C53 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -142,37 +203,23 @@
 			children = (
 				CE26B2B017D5890600216231 /* AppDelegate.h */,
 				CE26B2B117D5890600216231 /* AppDelegate.m */,
-				CE26B2B217D5890600216231 /* Common */,
-				CE26B2B417D5890600216231 /* Component */,
 				CE26B2B517D5890600216231 /* Constant.h */,
+				CE26B30317D5D38800216231 /* Manager */,
+				CE26B2B417D5890600216231 /* Component */,
 				CE26B2B617D5890600216231 /* Controller */,
 				CE26B2C217D5890600216231 /* Lib */,
 				CE26B2DA17D5890600216231 /* Model */,
 				CE26B2DB17D5890600216231 /* Parser */,
-				CE26B2DC17D5890600216231 /* Service */,
 				CE26B2DD17D5890600216231 /* Util */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		CE26B2B217D5890600216231 /* Common */ = {
-			isa = PBXGroup;
-			children = (
-				CE26B2B317D5890600216231 /* GDataXml */,
-			);
-			path = Common;
-			sourceTree = "<group>";
-		};
-		CE26B2B317D5890600216231 /* GDataXml */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = GDataXml;
-			sourceTree = "<group>";
-		};
 		CE26B2B417D5890600216231 /* Component */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B31117D5E22B00216231 /* Button.h */,
+				CE26B31217D5E22B00216231 /* Button.m */,
 			);
 			path = Component;
 			sourceTree = "<group>";
@@ -210,6 +257,8 @@
 		CE26B2BB17D5890600216231 /* Navigation */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B32417D5E60300216231 /* NavigationController.h */,
+				CE26B32517D5E60300216231 /* NavigationController.m */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -226,6 +275,8 @@
 		CE26B2BF17D5890600216231 /* Tabbar */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B32717D5E67300216231 /* TabBarController.h */,
+				CE26B32817D5E67300216231 /* TabBarController.m */,
 			);
 			path = Tabbar;
 			sourceTree = "<group>";
@@ -233,6 +284,8 @@
 		CE26B2C017D5890600216231 /* iPad */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B34217D5EAE200216231 /* Home */,
+				CE26B30E17D5DA3D00216231 /* Settings */,
 			);
 			path = iPad;
 			sourceTree = "<group>";
@@ -240,6 +293,8 @@
 		CE26B2C117D5890600216231 /* iPhone */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B30F17D5DA4D00216231 /* Home */,
+				CE26B31017D5DA4D00216231 /* Settings */,
 			);
 			path = iPhone;
 			sourceTree = "<group>";
@@ -305,6 +360,8 @@
 		CE26B2DA17D5890600216231 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B31917D5E4CB00216231 /* UserVo.h */,
+				CE26B31A17D5E4CB00216231 /* UserVo.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -312,15 +369,12 @@
 		CE26B2DB17D5890600216231 /* Parser */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B31E17D5E59A00216231 /* BaseParser.h */,
+				CE26B31F17D5E59A00216231 /* BaseParser.m */,
+				CE26B32117D5E5B200216231 /* UserParser.h */,
+				CE26B32217D5E5B200216231 /* UserParser.m */,
 			);
 			path = Parser;
-			sourceTree = "<group>";
-		};
-		CE26B2DC17D5890600216231 /* Service */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Service;
 			sourceTree = "<group>";
 		};
 		CE26B2DD17D5890600216231 /* Util */ = {
@@ -334,8 +388,8 @@
 				CE26B2E317D5890600216231 /* AsyncTask.m */,
 				CE26B2E417D5890600216231 /* HttpClient.h */,
 				CE26B2E517D5890600216231 /* HttpClient.m */,
-				CE26B2E617D5890600216231 /* LogUtil.h */,
-				CE26B2E717D5890600216231 /* LogUtil.m */,
+				CE26B2E617D5890600216231 /* Log.h */,
+				CE26B2E717D5890600216231 /* Log.m */,
 			);
 			path = Util;
 			sourceTree = "<group>";
@@ -355,6 +409,7 @@
 		CE26B2EE17D5890600216231 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B32A17D5E6ED00216231 /* test.html */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -369,6 +424,8 @@
 		CE26B2F017D5890600216231 /* Image */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B32C17D5E75500216231 /* button_back.png */,
+				CE26B32D17D5E75500216231 /* button_back@2x.png */,
 			);
 			path = Image;
 			sourceTree = "<group>";
@@ -376,6 +433,9 @@
 		CE26B2F117D5890600216231 /* Language */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B33217D5E86100216231 /* sc.strings */,
+				CE26B33317D5E86100216231 /* tc.strings */,
+				CE26B33017D5E77C00216231 /* en.strings */,
 			);
 			path = Language;
 			sourceTree = "<group>";
@@ -383,8 +443,63 @@
 		CE26B2F217D5890600216231 /* Theme */ = {
 			isa = PBXGroup;
 			children = (
+				CE26B33617D5E8DB00216231 /* view_theme.xml */,
 			);
 			path = Theme;
+			sourceTree = "<group>";
+		};
+		CE26B30317D5D38800216231 /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+				CE26B30417D5D3C600216231 /* SettingsManager.h */,
+				CE26B30517D5D3C600216231 /* SettingsManager.m */,
+				CE26B30717D5D98F00216231 /* DatabaseManager.h */,
+				CE26B30817D5D98F00216231 /* DatabaseManager.m */,
+				CE26B30A17D5D99F00216231 /* APIManager.h */,
+				CE26B30B17D5D99F00216231 /* APIManager.m */,
+			);
+			name = Manager;
+			path = ProjectFrame/Classes/Manager;
+			sourceTree = SOURCE_ROOT;
+		};
+		CE26B30E17D5DA3D00216231 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				CE26B34817D5EB0D00216231 /* PadSettingsController.h */,
+				CE26B34917D5EB0D00216231 /* PadSettingsController.m */,
+				CE26B34A17D5EB0D00216231 /* PadSettingsController.xib */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		CE26B30F17D5DA4D00216231 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				CE26B33817D5E98D00216231 /* HomeViewController.h */,
+				CE26B33917D5E98D00216231 /* HomeViewController.m */,
+				CE26B33A17D5E98D00216231 /* HomeViewController.xib */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		CE26B31017D5DA4D00216231 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				CE26B33D17D5EA4E00216231 /* SettingsController.h */,
+				CE26B33E17D5EA4E00216231 /* SettingsController.m */,
+				CE26B33F17D5EA4E00216231 /* SettingsController.xib */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		CE26B34217D5EAE200216231 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				CE26B34317D5EAF300216231 /* PadHomeController.h */,
+				CE26B34417D5EAF300216231 /* PadHomeController.m */,
+				CE26B34517D5EAF300216231 /* PadHomeController.xib */,
+			);
+			path = Home;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -440,6 +555,17 @@
 				CE26B2F717D5890600216231 /* libAsiHttpLibrary.a.zip in Resources */,
 				CE26B2FF17D5890600216231 /* InfoPlist.strings in Resources */,
 				CE26B30117D5890600216231 /* ProjectFrame-Info.plist in Resources */,
+				CE26B32B17D5E6ED00216231 /* test.html in Resources */,
+				CE26B32E17D5E75500216231 /* button_back.png in Resources */,
+				CE26B32F17D5E75500216231 /* button_back@2x.png in Resources */,
+				CE26B33117D5E77C00216231 /* en.strings in Resources */,
+				CE26B33417D5E86100216231 /* sc.strings in Resources */,
+				CE26B33517D5E86100216231 /* tc.strings in Resources */,
+				CE26B33717D5E8DB00216231 /* view_theme.xml in Resources */,
+				CE26B33C17D5E98D00216231 /* HomeViewController.xib in Resources */,
+				CE26B34117D5EA4E00216231 /* SettingsController.xib in Resources */,
+				CE26B34717D5EAF300216231 /* PadHomeController.xib in Resources */,
+				CE26B34C17D5EB0D00216231 /* PadSettingsController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -459,8 +585,21 @@
 				CE26B2FB17D5890600216231 /* AppUtil.m in Sources */,
 				CE26B2FC17D5890600216231 /* AsyncTask.m in Sources */,
 				CE26B2FD17D5890600216231 /* HttpClient.m in Sources */,
-				CE26B2FE17D5890600216231 /* LogUtil.m in Sources */,
+				CE26B2FE17D5890600216231 /* Log.m in Sources */,
 				CE26B30017D5890600216231 /* main.m in Sources */,
+				CE26B30617D5D3C600216231 /* SettingsManager.m in Sources */,
+				CE26B30917D5D98F00216231 /* DatabaseManager.m in Sources */,
+				CE26B30C17D5D99F00216231 /* APIManager.m in Sources */,
+				CE26B31317D5E22B00216231 /* Button.m in Sources */,
+				CE26B31C17D5E4CB00216231 /* UserVo.m in Sources */,
+				CE26B32017D5E59A00216231 /* BaseParser.m in Sources */,
+				CE26B32317D5E5B200216231 /* UserParser.m in Sources */,
+				CE26B32617D5E60300216231 /* NavigationController.m in Sources */,
+				CE26B32917D5E67300216231 /* TabBarController.m in Sources */,
+				CE26B33B17D5E98D00216231 /* HomeViewController.m in Sources */,
+				CE26B34017D5EA4E00216231 /* SettingsController.m in Sources */,
+				CE26B34617D5EAF300216231 /* PadHomeController.m in Sources */,
+				CE26B34B17D5EB0D00216231 /* PadSettingsController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

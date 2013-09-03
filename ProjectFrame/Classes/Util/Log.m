@@ -6,11 +6,11 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
-#import "LogUtil.h"
+#import "Log.h"
 
 static LOG_LEVEL log_level = LOG_DEBUG;
 
-@implementation LogUtil
+@implementation Log
 
 +(void)logWithTag:(NSString *)tag withFormat:(NSString *)format, ...{
     NSString *logString = [[NSString alloc] initWithFormat:@"{%@} %@", tag, format];
@@ -22,7 +22,7 @@ static LOG_LEVEL log_level = LOG_DEBUG;
     [logString release];
 }
 
-+(void)errorWithTag:(NSString *)tag withFormat:(NSString *)format, ... {
++(void)e:(NSString *)tag string:(NSString *)format, ... {
     if(log_level >= LOG_ERROR) {
         NSString *logString = [[NSString alloc] initWithFormat:@"[%@] %@", tag, format];
         va_list args;
@@ -34,7 +34,7 @@ static LOG_LEVEL log_level = LOG_DEBUG;
     }
 }
 
-+(void)warmWithTag:(NSString *)tag withFormat:(NSString *)format, ... {
++(void)w:(NSString *)tag string:(NSString *)format, ... {
     if(log_level >= LOG_WARM) {
         NSString *logString = [[NSString alloc] initWithFormat:@"[%@] %@", tag, format];
         va_list args;
@@ -46,7 +46,7 @@ static LOG_LEVEL log_level = LOG_DEBUG;
     }
 }
 
-+(void)infoWithTag:(NSString *)tag string:(NSString *)format, ... {
++(void)i:(NSString *)tag string:(NSString *)format, ... {
     if(log_level >= LOG_INFO) {
         NSString *logString = [[NSString alloc] initWithFormat:@"[%@] %@", tag, format];
         va_list args;
@@ -58,7 +58,7 @@ static LOG_LEVEL log_level = LOG_DEBUG;
     }
 }
 
-+(void)debugWithTag:(NSString *)tag string:(NSString *)format, ... {
++(void)d:(NSString *)tag string:(NSString *)format, ... {
     if(log_level >= LOG_DEBUG) {
         NSString *logString = [[NSString alloc] initWithFormat:@"[%@] %@", tag, format];
         va_list args;
@@ -70,7 +70,7 @@ static LOG_LEVEL log_level = LOG_DEBUG;
     }
 }
 
-+(void)verboseWithTag:(NSString *)tag string:(NSString *)format, ... {
++(void)v:(NSString *)tag string:(NSString *)format, ... {
     if(log_level >= LOG_VERBOSE) {
         NSString *logString = [[NSString alloc] initWithFormat:@"[%@] %@", tag, format];
         va_list args;

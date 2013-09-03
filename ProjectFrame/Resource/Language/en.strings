@@ -1,0 +1,20 @@
+/* 
+  en.strings
+  ProjectFrame
+
+  Created by Sean on 13-9-3.
+
+*/
+
+
+/** -------------------Button-------------------------- */
+"btn_ok"="OK";
+"btn_cancel"="Cancel";
+"btn_retry"="Retry";
+"btn_back"="Back";
+"btn_done"="Done";
+"btn_no"="NO";
+"btn_yes"="YES";
+
+/** -------------------Settings-------------------------- */
+"settings"="Settings";

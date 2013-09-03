@@ -12,19 +12,31 @@
 
 @synthesize window = _window;
 @synthesize rootController;
+@synthesize settingsManager;
+@synthesize databaseManager;
+
+static NSString * const TAG = @"AppDelegate";
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
     rootController = [[RootViewController alloc] init];
+    rootController.view.frame = self.window.frame;
+    rootController.view.backgroundColor = [UIColor yellowColor];
     self.window.rootViewController = self.rootController;
     [self.window makeKeyAndVisible];
     
-    [LogUtil infoWithTag:@"abc" string:@"edf%@", @"efg"];
+    [self initManager];
+    
+    [Log i:TAG string:@"didFinishLaunchingWithOptions"];
     
     return YES;
+}
+
+- (void)initManager {
+    settingsManager = [[SettingsManager alloc] init];
+    databaseManager = [[DatabaseManager alloc] init];
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
@@ -33,14 +45,16 @@
      Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
      Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
      */
+    [Log i:TAG string:@"applicationWillResignActive"];
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application
 {
     /*
-     Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later. 
+     Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
      If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
      */
+    [Log i:TAG string:@"applicationDidEnterBackground"];
 }
 
 - (void)applicationWillEnterForeground:(UIApplication *)application
@@ -48,6 +62,7 @@
     /*
      Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
      */
+    [Log i:TAG string:@"applicationWillEnterForeground"];
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application
@@ -55,6 +70,7 @@
     /*
      Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
      */
+    [Log i:TAG string:@"applicationDidBecomeActive"];
 }
 
 - (void)applicationWillTerminate:(UIApplication *)application
@@ -64,11 +80,14 @@
      Save data if appropriate.
      See also applicationDidEnterBackground:.
      */
+    [Log i:TAG string:@"applicationWillTerminate"];
 }
 
 - (void)dealloc {
     [super dealloc];
     
+    [settingsManager release];
+    [databaseManager release];
     self.rootController = nil;
 }
 
