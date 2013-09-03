@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "14B3F9E4150899ED00DD0BE4"
-               BuildableName = "MyFrame.app"
+               BuildableName = "ProjectFrame.app"
                BlueprintName = "ProjectFrame"
                ReferencedContainer = "container:ProjectFrame.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "14B3F9E4150899ED00DD0BE4"
-            BuildableName = "MyFrame.app"
+            BuildableName = "ProjectFrame.app"
             BlueprintName = "ProjectFrame"
             ReferencedContainer = "container:ProjectFrame.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "14B3F9E4150899ED00DD0BE4"
-            BuildableName = "MyFrame.app"
+            BuildableName = "ProjectFrame.app"
             BlueprintName = "ProjectFrame"
             ReferencedContainer = "container:ProjectFrame.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "14B3F9E4150899ED00DD0BE4"
-            BuildableName = "MyFrame.app"
+            BuildableName = "ProjectFrame.app"
             BlueprintName = "ProjectFrame"
             ReferencedContainer = "container:ProjectFrame.xcodeproj">
          </BuildableReference>
