@@ -7,6 +7,7 @@
 //
 
 #import "LoginController.h"
+#import "RootController.h"
 
 @interface LoginController ()
 
@@ -14,11 +15,13 @@
 
 @implementation LoginController
 
+@synthesize btnCancel;
+
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
-        // Custom initialization
+        self.title = @"Login";
     }
     return self;
 }
@@ -33,6 +36,16 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (IBAction)onBtnCancelClick:(id)sender {
+    [ROOT_CONTROLLER dismissModalViewControllerAnimated:YES];
+}
+
+- (void)dealloc {
+    [super dealloc];
+    
+    self.btnCancel = nil;
 }
 
 @end

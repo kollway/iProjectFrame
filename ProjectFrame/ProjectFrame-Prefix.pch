@@ -16,5 +16,6 @@
     #import "Constant.h"
     #import "Log.h"
     #import "AppUtil.h"
+    #import "AppDelegate.h"
 
 #endif

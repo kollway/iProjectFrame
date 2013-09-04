@@ -91,23 +91,23 @@ static ThemeManager* instance=nil;
 
 
 - (UIImage *) imageByTheme:(NSString*)nameKey {
-    if([nameKey length]<1)return nil;
-    for(ThemeImage* image in themeImageList){
-        if([image.key isEqualToString:nameKey])
-            return image.image;
-    }
-    ThemeImage* t=[[ThemeImage alloc] init];
-    t.key=nameKey;
-    if(DefaultTheme(themeKey)){
-        t.image=[UIImage imageWithContentsOfFile: [[NSBundle mainBundle] pathForResource:nameKey ofType:nil]];
-    }
-    else{
-        t.image=[UIImage imageWithContentsOfFile:[themePath stringByAppendingPathComponent:[NSString stringWithFormat:@"images/%@",nameKey]]];
-    }
-    [themeImageList addObject:t];
-    [t release];
-    return t.image;
-    
+//    if([nameKey length]<1)return nil;
+//    for(ThemeImage* image in themeImageList){
+//        if([image.key isEqualToString:nameKey])
+//            return image.image;
+//    }
+//    ThemeImage* t=[[ThemeImage alloc] init];
+//    t.key=nameKey;
+//    if(DefaultTheme(themeKey)){
+//        t.image=[UIImage imageWithContentsOfFile: [[NSBundle mainBundle] pathForResource:nameKey ofType:nil]];
+//    }
+//    else{
+//        t.image=[UIImage imageWithContentsOfFile:[themePath stringByAppendingPathComponent:[NSString stringWithFormat:@"images/%@",nameKey]]];
+//    }
+//    [themeImageList addObject:t];
+//    [t release];
+//    return t.image;
+    return [UIImage imageNamed:nameKey];
     
 }
 

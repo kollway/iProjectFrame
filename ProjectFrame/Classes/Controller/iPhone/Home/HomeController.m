@@ -29,6 +29,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    [self loadTabBar];
     // Do any additional setup after loading the view from its nib.
 }
 
@@ -43,13 +45,16 @@
     NSAutoreleasePool* pool=[NSAutoreleasePool new];
     
     SettingsController* settingsController = [[[SettingsController alloc] initWithNibName:@"SettingsController" bundle:nil] autorelease];
-    NavigationController* navSettingsController = [[[NavigationController alloc] initWithRootController:settingsController] autorelease];
+    settingsController.title = @"Settings 1";
+    NavigationController* navSettingsController = [[[NavigationController alloc] initWithRootViewController:settingsController] autorelease];
     
-    SettingsController* settingsController2 = [[[SettingsController alloc] initWithNibName:@"SettingsController" bundle:nil] autorelease];
-    NavigationController* navSettingsController2 = [[[NavigationController alloc] initWithRootController:settingsController] autorelease];
+    SettingsController* settingsController2 = [[[SettingsController alloc] initWithNibName:@"SettingsController" bundle:nil] autorelease]; 
+    settingsController2.title = @"Settings 2";
+    NavigationController* navSettingsController2 = [[[NavigationController alloc] initWithRootViewController:settingsController2] autorelease];
     
     SettingsController* settingsController3 = [[[SettingsController alloc] initWithNibName:@"SettingsController" bundle:nil] autorelease];
-    NavigationController* navSettingsController3 = [[[NavigationController alloc] initWithRootController:settingsController] autorelease];
+    settingsController3.title = @"Settings 3";
+    NavigationController* navSettingsController3 = [[[NavigationController alloc] initWithRootViewController:settingsController3] autorelease];
     
     
     self.viewControllers=[NSArray arrayWithObjects:navSettingsController, navSettingsController2,navSettingsController3, nil];

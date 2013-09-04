@@ -10,10 +10,10 @@
 #define MyFrame_Constant_h
 
 /** --------------------------Define Constance Method-------------------------- */
-#define lang(key) NSLocalizedStringFromTable(key, [APPUtil language], @"")
+//#define lang(key) NSLocalizedStringFromTable(key, [APPUtil language], @"")
 
 /** ------------------------Define AppDelegate & Controller--------------------- */
-#define APP_DELEGATE (AppDelegate*)[[UIApplication sharedApplication] delegate]
+#define APP_DELEGATE (AppDelegate *)[[UIApplication sharedApplication] delegate]
 #define ROOT_CONTROLLER (RootController *)[APP_DELEGATE rootController]
 
 /** ----------------------------Define Managers---------------------------------- */

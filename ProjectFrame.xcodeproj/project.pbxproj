@@ -56,6 +56,12 @@
 		CE8EA54817D7078600D67BCA /* LoginController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE8EA54617D7078600D67BCA /* LoginController.m */; };
 		CE8EA54917D7078600D67BCA /* LoginController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE8EA54717D7078600D67BCA /* LoginController.xib */; };
 		CE8EA54C17D7386200D67BCA /* ThemeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CE8EA54B17D7386100D67BCA /* ThemeManager.m */; };
+		CE8EA55317D779EE00D67BCA /* bg_top.png in Resources */ = {isa = PBXBuildFile; fileRef = CE8EA54D17D779EE00D67BCA /* bg_top.png */; };
+		CE8EA55417D779EE00D67BCA /* bg_top@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE8EA54E17D779EE00D67BCA /* bg_top@2x.png */; };
+		CE8EA55517D779EE00D67BCA /* btn_back.png in Resources */ = {isa = PBXBuildFile; fileRef = CE8EA54F17D779EE00D67BCA /* btn_back.png */; };
+		CE8EA55617D779EE00D67BCA /* btn_back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE8EA55017D779EE00D67BCA /* btn_back@2x.png */; };
+		CE8EA55717D779EE00D67BCA /* btn_blue.png in Resources */ = {isa = PBXBuildFile; fileRef = CE8EA55117D779EE00D67BCA /* btn_blue.png */; };
+		CE8EA55817D779EE00D67BCA /* btn_blue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE8EA55217D779EE00D67BCA /* btn_blue@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -151,6 +157,12 @@
 		CE8EA54717D7078600D67BCA /* LoginController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginController.xib; sourceTree = "<group>"; };
 		CE8EA54A17D7386000D67BCA /* ThemeManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThemeManager.h; sourceTree = "<group>"; };
 		CE8EA54B17D7386100D67BCA /* ThemeManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThemeManager.m; sourceTree = "<group>"; };
+		CE8EA54D17D779EE00D67BCA /* bg_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_top.png; sourceTree = "<group>"; };
+		CE8EA54E17D779EE00D67BCA /* bg_top@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_top@2x.png"; sourceTree = "<group>"; };
+		CE8EA54F17D779EE00D67BCA /* btn_back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_back.png; sourceTree = "<group>"; };
+		CE8EA55017D779EE00D67BCA /* btn_back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_back@2x.png"; sourceTree = "<group>"; };
+		CE8EA55117D779EE00D67BCA /* btn_blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_blue.png; sourceTree = "<group>"; };
+		CE8EA55217D779EE00D67BCA /* btn_blue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_blue@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -439,6 +451,12 @@
 		CE26B2F017D5890600216231 /* Image */ = {
 			isa = PBXGroup;
 			children = (
+				CE8EA54D17D779EE00D67BCA /* bg_top.png */,
+				CE8EA54E17D779EE00D67BCA /* bg_top@2x.png */,
+				CE8EA54F17D779EE00D67BCA /* btn_back.png */,
+				CE8EA55017D779EE00D67BCA /* btn_back@2x.png */,
+				CE8EA55117D779EE00D67BCA /* btn_blue.png */,
+				CE8EA55217D779EE00D67BCA /* btn_blue@2x.png */,
 				CE26B32C17D5E75500216231 /* button_back.png */,
 				CE26B32D17D5E75500216231 /* button_back@2x.png */,
 			);
@@ -598,6 +616,12 @@
 				CE26B34717D5EAF300216231 /* PadHomeController.xib in Resources */,
 				CE26B34C17D5EB0D00216231 /* PadSettingsController.xib in Resources */,
 				CE8EA54917D7078600D67BCA /* LoginController.xib in Resources */,
+				CE8EA55317D779EE00D67BCA /* bg_top.png in Resources */,
+				CE8EA55417D779EE00D67BCA /* bg_top@2x.png in Resources */,
+				CE8EA55517D779EE00D67BCA /* btn_back.png in Resources */,
+				CE8EA55617D779EE00D67BCA /* btn_back@2x.png in Resources */,
+				CE8EA55717D779EE00D67BCA /* btn_blue.png in Resources */,
+				CE8EA55817D779EE00D67BCA /* btn_blue@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

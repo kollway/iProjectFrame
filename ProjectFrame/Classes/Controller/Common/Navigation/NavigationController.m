@@ -7,6 +7,7 @@
 //
 
 #import "NavigationController.h"
+#import "ThemeManager.h"
 
 @interface NavigationController ()
 
@@ -46,7 +47,14 @@
 
 - (void)updateSkin {
 //    @"bg_top.png"
-    
+    UIImage* image=[THEME_MANAGER imageByTheme:@"bg_top.png"];
+    if([[[UIDevice currentDevice] systemVersion] floatValue]<5.0) {   //ios 5 以下
+//        backgroundImage.image=image;
+        UIImageView *bgImage = [[[UIImageView alloc] initWithImage:image] autorelease];
+        [self.navigationBar sendSubviewToBack:bgImage];
+    } else {
+        [self.navigationBar setBackgroundImage:image forBarMetrics:UIBarMetricsDefault];
+    }
     
 }
 
