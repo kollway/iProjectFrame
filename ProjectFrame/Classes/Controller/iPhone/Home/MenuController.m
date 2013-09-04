@@ -1,18 +1,18 @@
 //
-//  BaseViewController.m
-//  MyFrame
+//  MenuController.m
+//  ProjectFrame
 //
-//  Created by Sean on 13-9-1.
+//  Created by Sean on 13-9-4.
 //
 //
 
-#import "BaseViewController.h"
+#import "MenuController.h"
 
-@interface BaseViewController ()
+@interface MenuController ()
 
 @end
 
-@implementation BaseViewController
+@implementation MenuController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -33,18 +33,6 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-}
-
-- (void)updateSkin {
-    
-}
-
-- (void)onThemeChanged {
-    
-}
-
-- (void)onLanguageChanged {
-    
 }
 
 @end

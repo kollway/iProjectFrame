@@ -2,8 +2,8 @@
 //  AlertUtil.h
 //  Iphone_SmartPhone
 //
-//  Created by sean zheng on 2/21/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Sean Zheng on 2/21/12.
+//  Copyright (c) 2012 Kollway. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

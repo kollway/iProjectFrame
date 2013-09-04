@@ -1,18 +1,18 @@
 //
-//  RootViewController.m
-//  MyFrame
+//  LoginController.m
+//  ProjectFrame
 //
-//  Created by Sean on 13-9-1.
+//  Created by Sean on 13-9-4.
 //
 //
 
-#import "RootViewController.h"
+#import "LoginController.h"
 
-@interface RootViewController ()
+@interface LoginController ()
 
 @end
 
-@implementation RootViewController
+@implementation LoginController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -26,12 +26,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view.
-    
-    UIButton *btn = [[UIButton alloc] init];
-    btn.frame = self.view.frame;
-    btn.backgroundColor = [UIColor redColor];
-    [self.view addSubview:btn];
+    // Do any additional setup after loading the view from its nib.
 }
 
 - (void)didReceiveMemoryWarning

@@ -3,7 +3,7 @@
 //  Iphone_SmartPhone
 //
 //  Created by ko lanner on 12-2-10.
-//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012年 Kollway. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

@@ -1,18 +1,18 @@
 //
-//  HomeViewController.m
+//  SettingsDetailController.m
 //  ProjectFrame
 //
-//  Created by Sean on 13-9-3.
+//  Created by Sean on 13-9-4.
 //
 //
 
-#import "HomeViewController.h"
+#import "SettingsDetailController.h"
 
-@interface HomeViewController ()
+@interface SettingsDetailController ()
 
 @end
 
-@implementation HomeViewController
+@implementation SettingsDetailController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -26,7 +26,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // Do any additional setup after loading the view from its nib.
+	// Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning

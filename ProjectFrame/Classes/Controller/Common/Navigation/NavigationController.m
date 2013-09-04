@@ -14,13 +14,40 @@
 
 @implementation NavigationController
 
-- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
-{
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil{
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
-    if (self) {
-        // Custom initialization
+    if (self) { 
+        self.delegate = self;
+        [self updateSkin];
     }
     return self;
+}
+
+-(id)initWithRootViewController:(UIViewController*)viewController{
+    self=[super initWithRootViewController:viewController];
+    if (self) {
+        self.delegate = self;
+        [self updateSkin];
+        
+    }
+    return self;
+    
+}
+
+- (id)init{
+    self = [super init];
+    if (self) {
+        self.delegate = self;
+        [self updateSkin];
+        
+    }
+    return self;
+}
+
+- (void)updateSkin {
+//    @"bg_top.png"
+    
+    
 }
 
 - (void)viewDidLoad

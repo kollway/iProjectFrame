@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  MyFrame
 //
-//  Created by sean zheng on 3/8/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Sean Zheng on 3/8/12.
+//  Copyright (c) 2012 Kollway. All rights reserved.
 //
 
 #import "AppDelegate.h"
@@ -12,8 +12,6 @@
 
 @synthesize window = _window;
 @synthesize rootController;
-@synthesize settingsManager;
-@synthesize databaseManager;
 
 static NSString * const TAG = @"AppDelegate";
 
@@ -21,13 +19,13 @@ static NSString * const TAG = @"AppDelegate";
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
-    rootController = [[RootViewController alloc] init];
+    rootController = [[RootController alloc] init];
     rootController.view.frame = self.window.frame;
     rootController.view.backgroundColor = [UIColor yellowColor];
     self.window.rootViewController = self.rootController;
     [self.window makeKeyAndVisible];
     
-    [self initManager];
+    [APP_DELEGATE initManager];
     
     [Log i:TAG string:@"didFinishLaunchingWithOptions"];
     
@@ -35,8 +33,8 @@ static NSString * const TAG = @"AppDelegate";
 }
 
 - (void)initManager {
-    settingsManager = [[SettingsManager alloc] init];
-    databaseManager = [[DatabaseManager alloc] init];
+    
+    [Log i:TAG string:@"initManager"];
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
@@ -86,8 +84,6 @@ static NSString * const TAG = @"AppDelegate";
 - (void)dealloc {
     [super dealloc];
     
-    [settingsManager release];
-    [databaseManager release];
     self.rootController = nil;
 }
 

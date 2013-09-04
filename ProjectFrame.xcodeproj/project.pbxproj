@@ -12,7 +12,7 @@
 		14B3F9EE150899ED00DD0BE4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14B3F9ED150899ED00DD0BE4 /* CoreGraphics.framework */; };
 		CE26B2F317D5890600216231 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2B117D5890600216231 /* AppDelegate.m */; };
 		CE26B2F417D5890600216231 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2BA17D5890600216231 /* BaseViewController.m */; };
-		CE26B2F517D5890600216231 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2BE17D5890600216231 /* RootViewController.m */; };
+		CE26B2F517D5890600216231 /* RootController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2BE17D5890600216231 /* RootController.m */; };
 		CE26B2F617D5890600216231 /* libAsiHttpLibrary.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE26B2D017D5890600216231 /* libAsiHttpLibrary.a */; };
 		CE26B2F717D5890600216231 /* libAsiHttpLibrary.a.zip in Resources */ = {isa = PBXBuildFile; fileRef = CE26B2D117D5890600216231 /* libAsiHttpLibrary.a.zip */; };
 		CE26B2F817D5890600216231 /* GDataXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B2D617D5890600216231 /* GDataXMLNode.m */; };
@@ -41,8 +41,8 @@
 		CE26B33417D5E86100216231 /* sc.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33217D5E86100216231 /* sc.strings */; };
 		CE26B33517D5E86100216231 /* tc.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33317D5E86100216231 /* tc.strings */; };
 		CE26B33717D5E8DB00216231 /* view_theme.xml in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33617D5E8DB00216231 /* view_theme.xml */; };
-		CE26B33B17D5E98D00216231 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B33917D5E98D00216231 /* HomeViewController.m */; };
-		CE26B33C17D5E98D00216231 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33A17D5E98D00216231 /* HomeViewController.xib */; };
+		CE26B33B17D5E98D00216231 /* HomeController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B33917D5E98D00216231 /* HomeController.m */; };
+		CE26B33C17D5E98D00216231 /* HomeController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33A17D5E98D00216231 /* HomeController.xib */; };
 		CE26B34017D5EA4E00216231 /* SettingsController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B33E17D5EA4E00216231 /* SettingsController.m */; };
 		CE26B34117D5EA4E00216231 /* SettingsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE26B33F17D5EA4E00216231 /* SettingsController.xib */; };
 		CE26B34617D5EAF300216231 /* PadHomeController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE26B34417D5EAF300216231 /* PadHomeController.m */; };
@@ -51,6 +51,11 @@
 		CE26B34C17D5EB0D00216231 /* PadSettingsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE26B34A17D5EB0D00216231 /* PadSettingsController.xib */; };
 		CE542E1D17D38A1A00022C53 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CE542E1C17D38A1900022C53 /* libsqlite3.dylib */; };
 		CE542E1F17D38A2C00022C53 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CE542E1E17D38A2C00022C53 /* libxml2.dylib */; };
+		CE8EA54017D706D900D67BCA /* MenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE8EA53F17D706D900D67BCA /* MenuController.m */; };
+		CE8EA54317D7071000D67BCA /* SettingsDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE8EA54217D7071000D67BCA /* SettingsDetailController.m */; };
+		CE8EA54817D7078600D67BCA /* LoginController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE8EA54617D7078600D67BCA /* LoginController.m */; };
+		CE8EA54917D7078600D67BCA /* LoginController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE8EA54717D7078600D67BCA /* LoginController.xib */; };
+		CE8EA54C17D7386200D67BCA /* ThemeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CE8EA54B17D7386100D67BCA /* ThemeManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,8 +68,8 @@
 		CE26B2B517D5890600216231 /* Constant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constant.h; sourceTree = "<group>"; };
 		CE26B2B917D5890600216231 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
 		CE26B2BA17D5890600216231 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
-		CE26B2BD17D5890600216231 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
-		CE26B2BE17D5890600216231 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		CE26B2BD17D5890600216231 /* RootController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootController.h; sourceTree = "<group>"; };
+		CE26B2BE17D5890600216231 /* RootController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootController.m; sourceTree = "<group>"; };
 		CE26B2C417D5890600216231 /* ASIAuthenticationDialog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIAuthenticationDialog.h; sourceTree = "<group>"; };
 		CE26B2C517D5890600216231 /* ASICacheDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASICacheDelegate.h; sourceTree = "<group>"; };
 		CE26B2C617D5890600216231 /* ASIDataCompressor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIDataCompressor.h; sourceTree = "<group>"; };
@@ -123,9 +128,9 @@
 		CE26B33217D5E86100216231 /* sc.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = sc.strings; sourceTree = "<group>"; };
 		CE26B33317D5E86100216231 /* tc.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = tc.strings; sourceTree = "<group>"; };
 		CE26B33617D5E8DB00216231 /* view_theme.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = view_theme.xml; sourceTree = "<group>"; };
-		CE26B33817D5E98D00216231 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
-		CE26B33917D5E98D00216231 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
-		CE26B33A17D5E98D00216231 /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		CE26B33817D5E98D00216231 /* HomeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeController.h; sourceTree = "<group>"; };
+		CE26B33917D5E98D00216231 /* HomeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeController.m; sourceTree = "<group>"; };
+		CE26B33A17D5E98D00216231 /* HomeController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeController.xib; sourceTree = "<group>"; };
 		CE26B33D17D5EA4E00216231 /* SettingsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsController.h; sourceTree = "<group>"; };
 		CE26B33E17D5EA4E00216231 /* SettingsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsController.m; sourceTree = "<group>"; };
 		CE26B33F17D5EA4E00216231 /* SettingsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingsController.xib; sourceTree = "<group>"; };
@@ -137,6 +142,15 @@
 		CE26B34A17D5EB0D00216231 /* PadSettingsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PadSettingsController.xib; sourceTree = "<group>"; };
 		CE542E1C17D38A1900022C53 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 		CE542E1E17D38A2C00022C53 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+		CE8EA53E17D706D900D67BCA /* MenuController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuController.h; sourceTree = "<group>"; };
+		CE8EA53F17D706D900D67BCA /* MenuController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuController.m; sourceTree = "<group>"; };
+		CE8EA54117D7071000D67BCA /* SettingsDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsDetailController.h; sourceTree = "<group>"; };
+		CE8EA54217D7071000D67BCA /* SettingsDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsDetailController.m; sourceTree = "<group>"; };
+		CE8EA54517D7078600D67BCA /* LoginController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginController.h; sourceTree = "<group>"; };
+		CE8EA54617D7078600D67BCA /* LoginController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginController.m; sourceTree = "<group>"; };
+		CE8EA54717D7078600D67BCA /* LoginController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginController.xib; sourceTree = "<group>"; };
+		CE8EA54A17D7386000D67BCA /* ThemeManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThemeManager.h; sourceTree = "<group>"; };
+		CE8EA54B17D7386100D67BCA /* ThemeManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThemeManager.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -266,8 +280,8 @@
 		CE26B2BC17D5890600216231 /* Root */ = {
 			isa = PBXGroup;
 			children = (
-				CE26B2BD17D5890600216231 /* RootViewController.h */,
-				CE26B2BE17D5890600216231 /* RootViewController.m */,
+				CE26B2BD17D5890600216231 /* RootController.h */,
+				CE26B2BE17D5890600216231 /* RootController.m */,
 			);
 			path = Root;
 			sourceTree = "<group>";
@@ -293,6 +307,7 @@
 		CE26B2C117D5890600216231 /* iPhone */ = {
 			isa = PBXGroup;
 			children = (
+				CE8EA54417D7076B00D67BCA /* User */,
 				CE26B30F17D5DA4D00216231 /* Home */,
 				CE26B31017D5DA4D00216231 /* Settings */,
 			);
@@ -457,6 +472,8 @@
 				CE26B30817D5D98F00216231 /* DatabaseManager.m */,
 				CE26B30A17D5D99F00216231 /* APIManager.h */,
 				CE26B30B17D5D99F00216231 /* APIManager.m */,
+				CE8EA54A17D7386000D67BCA /* ThemeManager.h */,
+				CE8EA54B17D7386100D67BCA /* ThemeManager.m */,
 			);
 			name = Manager;
 			path = ProjectFrame/Classes/Manager;
@@ -475,9 +492,11 @@
 		CE26B30F17D5DA4D00216231 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				CE26B33817D5E98D00216231 /* HomeViewController.h */,
-				CE26B33917D5E98D00216231 /* HomeViewController.m */,
-				CE26B33A17D5E98D00216231 /* HomeViewController.xib */,
+				CE26B33817D5E98D00216231 /* HomeController.h */,
+				CE26B33917D5E98D00216231 /* HomeController.m */,
+				CE26B33A17D5E98D00216231 /* HomeController.xib */,
+				CE8EA53E17D706D900D67BCA /* MenuController.h */,
+				CE8EA53F17D706D900D67BCA /* MenuController.m */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -488,6 +507,8 @@
 				CE26B33D17D5EA4E00216231 /* SettingsController.h */,
 				CE26B33E17D5EA4E00216231 /* SettingsController.m */,
 				CE26B33F17D5EA4E00216231 /* SettingsController.xib */,
+				CE8EA54117D7071000D67BCA /* SettingsDetailController.h */,
+				CE8EA54217D7071000D67BCA /* SettingsDetailController.m */,
 			);
 			path = Settings;
 			sourceTree = "<group>";
@@ -500,6 +521,16 @@
 				CE26B34517D5EAF300216231 /* PadHomeController.xib */,
 			);
 			path = Home;
+			sourceTree = "<group>";
+		};
+		CE8EA54417D7076B00D67BCA /* User */ = {
+			isa = PBXGroup;
+			children = (
+				CE8EA54517D7078600D67BCA /* LoginController.h */,
+				CE8EA54617D7078600D67BCA /* LoginController.m */,
+				CE8EA54717D7078600D67BCA /* LoginController.xib */,
+			);
+			path = User;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -562,10 +593,11 @@
 				CE26B33417D5E86100216231 /* sc.strings in Resources */,
 				CE26B33517D5E86100216231 /* tc.strings in Resources */,
 				CE26B33717D5E8DB00216231 /* view_theme.xml in Resources */,
-				CE26B33C17D5E98D00216231 /* HomeViewController.xib in Resources */,
+				CE26B33C17D5E98D00216231 /* HomeController.xib in Resources */,
 				CE26B34117D5EA4E00216231 /* SettingsController.xib in Resources */,
 				CE26B34717D5EAF300216231 /* PadHomeController.xib in Resources */,
 				CE26B34C17D5EB0D00216231 /* PadSettingsController.xib in Resources */,
+				CE8EA54917D7078600D67BCA /* LoginController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -578,7 +610,7 @@
 			files = (
 				CE26B2F317D5890600216231 /* AppDelegate.m in Sources */,
 				CE26B2F417D5890600216231 /* BaseViewController.m in Sources */,
-				CE26B2F517D5890600216231 /* RootViewController.m in Sources */,
+				CE26B2F517D5890600216231 /* RootController.m in Sources */,
 				CE26B2F817D5890600216231 /* GDataXMLNode.m in Sources */,
 				CE26B2F917D5890600216231 /* SqliteLib.m in Sources */,
 				CE26B2FA17D5890600216231 /* AlertUtil.m in Sources */,
@@ -596,10 +628,14 @@
 				CE26B32317D5E5B200216231 /* UserParser.m in Sources */,
 				CE26B32617D5E60300216231 /* NavigationController.m in Sources */,
 				CE26B32917D5E67300216231 /* TabBarController.m in Sources */,
-				CE26B33B17D5E98D00216231 /* HomeViewController.m in Sources */,
+				CE26B33B17D5E98D00216231 /* HomeController.m in Sources */,
 				CE26B34017D5EA4E00216231 /* SettingsController.m in Sources */,
 				CE26B34617D5EAF300216231 /* PadHomeController.m in Sources */,
 				CE26B34B17D5EB0D00216231 /* PadSettingsController.m in Sources */,
+				CE8EA54017D706D900D67BCA /* MenuController.m in Sources */,
+				CE8EA54317D7071000D67BCA /* SettingsDetailController.m in Sources */,
+				CE8EA54817D7078600D67BCA /* LoginController.m in Sources */,
+				CE8EA54C17D7386200D67BCA /* ThemeManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -673,7 +709,6 @@
 				INFOPLIST_FILE = "$(SRCROOT)/ProjectFrame/ProjectFrame-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/MyFrame/Classes/Lib/AsiHttpRequest\"",
 					"\"$(SRCROOT)/ProjectFrame/Classes/Lib/AsiHttpRequest\"",
 				);
 				PRODUCT_NAME = ProjectFrame;
@@ -690,7 +725,6 @@
 				INFOPLIST_FILE = "$(SRCROOT)/ProjectFrame/ProjectFrame-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/MyFrame/Classes/Lib/AsiHttpRequest\"",
 					"\"$(SRCROOT)/ProjectFrame/Classes/Lib/AsiHttpRequest\"",
 				);
 				PRODUCT_NAME = ProjectFrame;
