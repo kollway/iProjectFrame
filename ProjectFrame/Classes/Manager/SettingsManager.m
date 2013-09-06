@@ -11,6 +11,9 @@
 
 @implementation SettingsManager
 
+@synthesize language;
+@synthesize theme;
+
 static SettingsManager *instance = nil;
 
 + (SettingsManager *)sharedInstance {
@@ -20,8 +23,12 @@ static SettingsManager *instance = nil;
     return instance;
 }
 
-- (id)initWithAppDelegate: (AppDelegate *)delegate {
+- (id)init {
     self = [super init];
+    if(self) {
+        self.theme = THEME_NORMAL;
+        self.language = LANGUAGE_SC;
+    }
     return self;
 }
 

@@ -10,4 +10,6 @@
 
 @interface APIManager : NSObject
 
++ (APIManager *)sharedInstance;
+
 @end

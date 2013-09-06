@@ -22,6 +22,8 @@
 @property(nonatomic,assign) float fontSize;
 @property(nonatomic,assign) BOOL  fontBold;
 @property(nonatomic,retain) NSString* fontName;
+@property(nonatomic,retain) NSString* backgroundImage;
+@property(nonatomic,retain) NSString* highlightImage;
 
 -(UIFont*)font;
 
@@ -36,7 +38,6 @@
     
     NSMutableArray* themeImageList;
     
-    NSString* themeKey;
     NSString* themePath;
 }
 
@@ -62,7 +63,7 @@
 /*
  @open the theme xml  and category xml to parser
  */
-- (void)open:(NSString *)theme;
+- (void)open:(THEME)theme;
 
 /*
  @open the theme xml and parser
@@ -71,14 +72,9 @@
 
 
 /*
- @check the theme is same
- */
-- (BOOL)compareTheme:(NSString *)newTheme;
-
-/*
  @return theme object from key
  */
-- (ThemeManager *)get:(NSString*)key;
+- (Theme *)get:(NSString*)key;
 
 
 @end

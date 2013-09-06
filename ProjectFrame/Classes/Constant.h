@@ -9,9 +9,6 @@
 #ifndef MyFrame_Constant_h
 #define MyFrame_Constant_h
 
-/** --------------------------Define Constance Method-------------------------- */
-//#define lang(key) NSLocalizedStringFromTable(key, [APPUtil language], @"")
-
 /** ------------------------Define AppDelegate & Controller--------------------- */
 #define APP_DELEGATE (AppDelegate *)[[UIApplication sharedApplication] delegate]
 #define ROOT_CONTROLLER (RootController *)[APP_DELEGATE rootController]
@@ -23,7 +20,23 @@
 #define THEME_MANAGER (ThemeManager *)[ThemeManager sharedInstance]
 
 
+/** --------------------------Define Constance Method-------------------------- */
+#define lang(key) NSLocalizedStringFromTable(key, [APPUtil language], @"")
+#define image(key) [THEME_MANAGER imageByTheme:key]
+
+
 /** --------------------------Define Notification-------------------------------- */
 
+typedef enum  THEME {
+    THEME_NORMAL,
+    THEME_DARK,
+    THEME_LIGHT
+} THEME;
+
+typedef enum  LANGUAGE {
+    LANGUAGE_SC,
+    LANGUAGE_TC,
+    LANGUAGE_EN
+} LANGUAGE;
 
 #endif

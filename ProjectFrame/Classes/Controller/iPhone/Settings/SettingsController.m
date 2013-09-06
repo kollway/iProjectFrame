@@ -12,6 +12,7 @@
 #import "LoginController.h"
 #import "AppDelegate.h"
 #import "NavigationController.h"
+#import "TabBarItem.h"
 
 @interface SettingsController ()
 
@@ -26,7 +27,7 @@
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
-        // Custom initialization
+        self.tabBarItem=[[[TabBarItem alloc] initWithTitle:@"Settings" image:@"icon_pulse_off.png" selectedImage:@"icon_pulse_on.png"] autorelease];
     }
     return self;
 }

@@ -10,4 +10,5 @@
 
 @interface Button : UIButton
 
+- (void)setTheme:(NSString*)key;
 @end

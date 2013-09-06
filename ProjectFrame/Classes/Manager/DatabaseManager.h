@@ -10,4 +10,6 @@
 
 @interface DatabaseManager : NSObject
 
++ (DatabaseManager *)sharedInstance;
+
 @end

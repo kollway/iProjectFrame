@@ -10,6 +10,12 @@
 
 @interface SettingsManager : NSObject
 
+@property THEME theme;
+@property LANGUAGE language;
+
++ (SettingsManager *)sharedInstance;
+
 - (int)getVersionNum;
+
 
 @end

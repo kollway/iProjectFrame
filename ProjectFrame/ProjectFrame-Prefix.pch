@@ -17,5 +17,6 @@
     #import "Log.h"
     #import "AppUtil.h"
     #import "AppDelegate.h"
+    #import "ThemeManager.h"
 
 #endif
