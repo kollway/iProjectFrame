@@ -7,12 +7,11 @@
 //
 
 #import "BaseViewController.h"
-#import "Button.h"
 
 @interface SettingsController : BaseViewController
 
-@property (retain, nonatomic) IBOutlet Button *btnDetail;
-@property (retain, nonatomic) IBOutlet Button *btnLogin;
+@property (retain, nonatomic) IBOutlet UIButton *btnDetail;
+@property (retain, nonatomic) IBOutlet UIButton *btnLogin;
 
 - (IBAction)onBtnDetailClick:(id)sender;
 - (IBAction)onBtnLoginClick:(id)sender;

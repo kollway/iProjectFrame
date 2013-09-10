@@ -35,6 +35,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [btnDetail setTheme:@"btn_normal"];
+    [btnLogin setTheme:@"btn_normal"];
     // Do any additional setup after loading the view from its nib.
 }
 
