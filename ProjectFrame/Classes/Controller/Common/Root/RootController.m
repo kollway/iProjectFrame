@@ -58,9 +58,8 @@
 }
 
 - (void)dealloc {
-    [super dealloc];
-    
     self.homeController = nil;
+    [super dealloc];
 }
 
 @end

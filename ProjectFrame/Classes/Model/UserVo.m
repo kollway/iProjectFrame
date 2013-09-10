@@ -15,10 +15,9 @@
 @synthesize password;
 
 - (void)dealloc {
-    [super dealloc];
-    
     self.userName = nil;
     self.password = nil;
+    [super dealloc];    
 }
 
 @end

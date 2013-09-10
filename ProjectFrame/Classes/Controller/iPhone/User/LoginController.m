@@ -43,9 +43,8 @@
 }
 
 - (void)dealloc {
-    [super dealloc];
-    
     self.btnCancel = nil;
+    [super dealloc];
 }
 
 @end

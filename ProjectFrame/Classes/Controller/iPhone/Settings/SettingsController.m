@@ -62,10 +62,9 @@
 }
 
 - (void)dealloc {
-    [super dealloc];
-    
     self.btnLogin = nil;
     self.btnDetail = nil;
+    [super dealloc];    
 }
 
 @end

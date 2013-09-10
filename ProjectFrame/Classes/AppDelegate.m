@@ -80,9 +80,8 @@ static NSString *const TAG = @"AppDelegate";
 }
 
 - (void)dealloc {
-	[super dealloc];
-    
 	self.rootController = nil;
+	[super dealloc];
 }
 
 @end
