@@ -12,23 +12,25 @@
 @implementation AppDelegate
 
 @synthesize window = _window;
-@synthesize rootController;
+@synthesize rootController = _rootController;
 
 static NSString *const TAG = @"AppDelegate";
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 	[self initManager];
     
-	self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+	_window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
 	// Override point for customization after application launch.
-	rootController = [[RootController alloc] init];
-	rootController.view.frame = self.window.frame;
-	rootController.view.backgroundColor = [UIColor yellowColor];
-	self.window.rootViewController = self.rootController;
+	_rootController = [[RootController alloc] init];
+	_rootController.view.frame = self.window.frame;
+	_rootController.view.backgroundColor = [UIColor yellowColor];
+	self.window.rootViewController = _rootController;
 	[self.window makeKeyAndVisible];
     
     
 	[Log i:TAG string:@"didFinishLaunchingWithOptions"];
+    
+//    [Log i:TAG string:@"test >> %d", test];
     
 	return YES;
 }
