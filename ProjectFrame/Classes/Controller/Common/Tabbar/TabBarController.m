@@ -7,7 +7,6 @@
 //
 
 #import "TabBarController.h"
-#import "Label.h"
 #import "TabBarItem.h"
 
 @interface TabBarController ()
@@ -80,7 +79,7 @@
         
 		UITabBarItem *tabbar = viewController.tabBarItem;
 		UIImageView *imageView = nil;
-		Label *label = nil;
+		UILabel *label = nil;
 		//        float labelHeight=0.0f;
 		if (tabbar.image != nil) {
 			imageView = [[UIImageView alloc] initWithImage:tabbar.image];
@@ -96,7 +95,7 @@
 			}
 		}
 		if ([tabbar.title length] > 0 || [viewController.title length] > 0) {
-			label = [[Label alloc] init];
+			label = [[UILabel alloc] init];
 			[bgView addSubview:label];
 			if ([tabbar.title length] > 0)
 				label.text = tabbar.title;
@@ -174,8 +173,8 @@
 				//}];
 			}
 		}
-		else if ([view isKindOfClass:[Label class]]) {
-			Label *label = (Label *)view;
+		else if ([view isKindOfClass:[UILabel class]]) {
+			UILabel *label = (UILabel *)view;
 			label.highlighted = (index == selectedIndex);
 			index++;
 			x += w;
