@@ -5,7 +5,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface Label : UILabel
+@interface UILabel (theme)
 
 - (void)setTheme:(NSString *)key;
 

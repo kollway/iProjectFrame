@@ -4,9 +4,9 @@
 //  Copyright (c) 2013 Kollway. All rights reserved.
 //
 
-#import "Label.h"
+#import "UILabel+theme.h"
 
-@implementation Label
+@implementation UILabel (theme)
 
 - (void)setTheme:(NSString *)key {
 	Theme *theme = [THEME_MANAGER get:key];
