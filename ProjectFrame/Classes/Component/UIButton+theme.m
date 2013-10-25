@@ -6,32 +6,32 @@
 //
 //
 
-#import "Button.h"
+#import "UIButton+theme.h"
 #import "ThemeManager.h"
 
-@implementation Button
+@implementation UIButton (theme)
 
-- (id)initWithFrame:(CGRect)frame {
-	self = [super initWithFrame:frame];
-	if (self) {
-		// Initialization code
-        [self setTheme:@"btn_normal"];
-//		[self setBackgroundImage:image(@"btn_normal.png") forState:UIControlStateNormal];
-//		[self setBackgroundImage:image(@"btn_press.png") forState:UIControlStateHighlighted];
-	}
-	return self;
-}
-
-- (id)initWithCoder:(NSCoder *)aDecoder {
-	self = [super initWithCoder:aDecoder];
-	if (self) {
-		// Initialization code
-//		[self setBackgroundImage:image(@"btn_normal.png") forState:UIControlStateNormal];
-//		[self setBackgroundImage:image(@"btn_press.png") forState:UIControlStateHighlighted];
-        [self setTheme:@"btn_normal"];
-	}
-	return self;
-}
+//- (id)initWithFrame:(CGRect)frame {
+//	self = [super initWithFrame:frame];
+//	if (self) {
+//		// Initialization code
+//        [self setTheme:@"btn_normal"];
+////		[self setBackgroundImage:image(@"btn_normal.png") forState:UIControlStateNormal];
+////		[self setBackgroundImage:image(@"btn_press.png") forState:UIControlStateHighlighted];
+//	}
+//	return self;
+//}
+//
+//- (id)initWithCoder:(NSCoder *)aDecoder {
+//	self = [super initWithCoder:aDecoder];
+//	if (self) {
+//		// Initialization code
+////		[self setBackgroundImage:image(@"btn_normal.png") forState:UIControlStateNormal];
+////		[self setBackgroundImage:image(@"btn_press.png") forState:UIControlStateHighlighted];
+//        [self setTheme:@"btn_normal"];
+//	}
+//	return self;
+//}
 
 - (void)setTheme:(NSString *)key {
 	Theme *theme = [THEME_MANAGER get:key];

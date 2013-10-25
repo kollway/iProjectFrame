@@ -7,11 +7,10 @@
 //
 
 #import "BaseViewController.h"
-#import "Button.h"
 
 @interface LoginController : BaseViewController
 
-@property (retain, nonatomic) IBOutlet Button *btnCancel;
+@property (retain, nonatomic) IBOutlet UIButton *btnCancel;
 
 - (IBAction)onBtnCancelClick:(id)sender;
 

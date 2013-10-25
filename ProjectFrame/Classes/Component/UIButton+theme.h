@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface Button : UIButton
+@interface UIButton (theme)
 
 - (void)setTheme:(NSString*)key;
 @end
