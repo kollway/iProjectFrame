@@ -21,8 +21,11 @@
 
 
 /** --------------------------Define Constance Method-------------------------- */
-#define lang(key) NSLocalizedStringFromTable(key, [APPUtil language], @"")
+#define lang(key) NSLocalizedStringFromTable(key, [AppUtil language], @"")
 #define image(key) [THEME_MANAGER imageByTheme:key]
+
+
+#define IOS7 [[[UIDevice currentDevice]systemVersion] floatValue] >= 7.0
 
 
 /** --------------------------Define Notification-------------------------------- */

@@ -22,7 +22,7 @@
 
 @implementation AppUtil
 
-+ (NSString *)laguage {
++ (NSString *)language {
     return @"en";
 } 
 

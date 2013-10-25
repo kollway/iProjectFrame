@@ -20,6 +20,8 @@
 	self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
 	if (self) {
 		// Custom initialization
+        
+
 	}
 	return self;
 }
@@ -30,6 +32,13 @@
     
 	self.view.autoresizingMask = UIViewAutoresizingFlexibleBottomMargin;
 	self.view.autoresizesSubviews = YES;
+    
+    if (IOS7) {
+        self.view.bounds = CGRectMake(0, -20, self.view.frame.size.width, self.view.frame.size.height );
+    }
+
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {

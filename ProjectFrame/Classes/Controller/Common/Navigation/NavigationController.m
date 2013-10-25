@@ -54,12 +54,18 @@
 		[self.navigationBar setBackgroundImage:image forBarMetrics:UIBarMetricsDefault];
 	}
     self.view.backgroundColor = [UIColor whiteColor];
+    
 }
 
 - (void)viewDidLoad {
-	[super viewDidLoad];
-	// Do any additional setup after loading the view.
+    [super viewDidLoad];
+    
+    if (IOS7) {
+        self.view.bounds = CGRectMake(0, -20, self.view.frame.size.width, self.view.frame.size.height );
+//        self.navigationController.navigationBar.titleTextAttributes = @{UITextAttributeTextColor : [UIColor whiteColor]};
+    }
 }
+
 
 - (void)didReceiveMemoryWarning {
 	[super didReceiveMemoryWarning];

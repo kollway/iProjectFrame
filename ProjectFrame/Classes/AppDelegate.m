@@ -27,6 +27,10 @@ static NSString *const TAG = @"AppDelegate";
 	self.window.rootViewController = self.rootController;
 	[self.window makeKeyAndVisible];
     
+    [[UINavigationBar appearance] setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}];
+    
+    [Log i:TAG string:lang(@"btn_ok")];
+    
     
 	[Log i:TAG string:@"didFinishLaunchingWithOptions"];
     
