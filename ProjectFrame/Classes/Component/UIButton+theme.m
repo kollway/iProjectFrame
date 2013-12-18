@@ -8,6 +8,7 @@
 
 #import "UIButton+theme.h"
 #import "ThemeManager.h"
+#import "Constant.h"
 
 @implementation UIButton (theme)
 

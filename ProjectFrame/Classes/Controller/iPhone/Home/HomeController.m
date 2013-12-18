@@ -56,8 +56,13 @@
     settingsController3.title = @"Settings 3";
     NavigationController* navSettingsController3 = [[[NavigationController alloc] initWithRootViewController:settingsController3] autorelease];
     
+    SettingsController *settingsController4 = [[[SettingsController alloc]initWithNibName:@"SettingsController" bundle:nil] autorelease];
+    settingsController4.title = @"Settings 4";
+    NavigationController *navSettingController4 = [[[NavigationController alloc]
+                                                    initWithRootViewController:settingsController4] autorelease];
     
-    self.viewControllers=[NSArray arrayWithObjects:navSettingsController, navSettingsController2,navSettingsController3, nil];
+    
+    self.viewControllers=[NSArray arrayWithObjects:navSettingsController, navSettingsController2,navSettingsController3,navSettingController4, nil];
     
     [pool drain];
 }

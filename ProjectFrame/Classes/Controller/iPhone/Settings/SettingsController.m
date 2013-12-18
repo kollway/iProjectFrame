@@ -38,6 +38,16 @@
     [btnDetail setTheme:@"btn_normal"];
     [btnLogin setTheme:@"btn_normal"];
     // Do any additional setup after loading the view from its nib.
+    
+    UIButton *backButton = [[UIButton alloc] initWithFrame: CGRectMake(0, 0, 64.0f, 30.0f)];
+    [backButton setTitle:@"Title:Normal" forState:UIControlStateNormal];
+    [backButton setTheme:@"btn_normal"];
+    [backButton addTarget:self action:@selector(popVC) forControlEvents:UIControlEventTouchUpInside];
+    self.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithCustomView:backButton];
+}
+
+- (void) popVC{
+    [self.navigationController popViewControllerAnimated:YES];
 }
 
 - (void)didReceiveMemoryWarning
