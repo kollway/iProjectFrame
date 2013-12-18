@@ -1,0 +1,1277 @@
+TSSToolkitResources
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+cCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+cCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+cTouch /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/./SSToolkitResources.bundle
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
+c0000000052AFED3A0000000000000100
+t1387261242
+s256
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png
+c0000000052AFED3A000000000000015E
+t1387261242
+s350
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png
+c0000000052AFED3A000000000000036F
+t1387261242
+s879
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png
+c0000000052AFED3A00000000000004E0
+t1387261242
+s1248
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png
+c0000000052AFED3A000000000000027C
+t1387261242
+s636
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png
+c0000000052AFED3A00000000000003C9
+t1387261242
+s969
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png
+c0000000052AFED3A0000000000000240
+t1387261242
+s576
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png
+c0000000052AFED3A0000000000000525
+t1387261242
+s1317
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png
+c0000000052AFED3A0000000000000248
+t1387261242
+s584
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png
+c0000000052AFED3A000000000000053E
+t1387261242
+s1342
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png
+c0000000052AFED3A000000000000008E
+t1387261242
+s142
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png
+c0000000052AFED3A00000000000000CC
+t1387261242
+s204
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png
+c0000000052AFED3A000000000000008E
+t1387261242
+s142
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png
+c0000000052AFED3A00000000000000E7
+t1387261242
+s231
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button-mini.png
+c0000000052AFED3A000000000000012C
+t1387261242
+s300
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png
+c0000000052AFED3A00000000000001FE
+t1387261242
+s510
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button.png
+c0000000052AFED3A000000000000015F
+t1387261242
+s351
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button@2x.png
+c0000000052AFED3A0000000000000262
+t1387261242
+s610
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button-mini.png
+c0000000052AFED3A000000000000008E
+t1387261242
+s142
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png
+c0000000052AFED3A00000000000000FC
+t1387261242
+s252
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button.png
+c0000000052AFED3A00000000000000BB
+t1387261242
+s187
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button@2x.png
+c0000000052AFED3A00000000000000FD
+t1387261242
+s253
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button-mini.png
+c0000000052AFED3A0000000000000094
+t1387261242
+s148
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png
+c0000000052AFED3A00000000000000ED
+t1387261242
+s237
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button.png
+c0000000052AFED3A00000000000000AE
+t1387261242
+s174
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button@2x.png
+c0000000052AFED3A0000000000000104
+t1387261242
+s260
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/gray-star.png
+c0000000052AFED3A0000000000000DC4
+t1387261242
+s3524
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/gray-star@2x.png
+c0000000052AFED3A000000000000118E
+t1387261242
+s4494
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-check.png
+c0000000052AFED3A00000000000001A1
+t1387261242
+s417
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-check@2x.png
+c0000000052AFED3A0000000000000299
+t1387261242
+s665
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-x.png
+c0000000052AFED3A00000000000001BA
+t1387261242
+s442
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-x@2x.png
+c0000000052AFED3A0000000000000310
+t1387261242
+s784
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/orange-star.png
+c0000000052AFED3A0000000000000EB3
+t1387261242
+s3763
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/orange-star@2x.png
+c0000000052AFED3A0000000000001456
+t1387261242
+s5206
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button-mini.png
+c0000000052AFED3A0000000000000106
+t1387261242
+s262
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png
+c0000000052AFED3A000000000000020E
+t1387261242
+s526
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button.png
+c0000000052AFED3A0000000000000175
+t1387261242
+s373
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button@2x.png
+c0000000052AFED3A00000000000002AE
+t1387261242
+s686
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button-mini.png
+c0000000052AFED3A0000000000000116
+t1387261242
+s278
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png
+c0000000052AFED3A00000000000002A4
+t1387261242
+s676
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button.png
+c0000000052AFED3A00000000000001A2
+t1387261242
+s418
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button@2x.png
+c0000000052AFED3A0000000000000317
+t1387261242
+s791
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button-mini.png
+c0000000052AFED3A00000000000000D2
+t1387261242
+s210
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png
+c0000000052AFED3A0000000000000135
+t1387261242
+s309
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button.png
+c0000000052AFED3A00000000000000FC
+t1387261242
+s252
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button@2x.png
+c0000000052AFED3A0000000000000170
+t1387261242
+s368
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+c0000000052AFED3A0000000000000572
+t1387261242
+s1394
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000369
+t1387261242
+s873
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000352
+t1387261242
+s850
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000374
+t1387261242
+s884
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000361
+t1387261242
+s865
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000361
+t1387261242
+s865
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings
+c0000000052AFED3A000000000000035C
+t1387261242
+s860
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings
+c0000000052AFED3A00000000000005F0
+t1387261242
+s1520
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings
+c0000000052AFED3A000000000000033A
+t1387261242
+s826
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000370
+t1387261242
+s880
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000376
+t1387261242
+s886
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings
+c0000000052AFED3A000000000000035A
+t1387261242
+s858
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000361
+t1387261242
+s865
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000382
+t1387261242
+s898
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings
+c0000000052AFED3A000000000000036C
+t1387261242
+s876
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings
+c0000000052AFED3A000000000000035A
+t1387261242
+s858
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings
+c0000000052AFED3A0000000000000358
+t1387261242
+s856
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle
+t1387261244
+s2210
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+t1387261243
+s1193
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+t1387261244
+s234
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+t1387261244
+s414
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+t1387261244
+s887
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+t1387261244
+s1144
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+t1387261244
+s482
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+t1387261244
+s824
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+t1387261244
+s623
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+t1387261244
+s1775
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+t1387261244
+s611
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+t1387261244
+s1623
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+t1387261244
+s183
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+t1387261244
+s340
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+t1387261244
+s182
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+t1387261244
+s346
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+t1387261244
+s466
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+t1387261244
+s871
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+t1387261244
+s575
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+t1387261244
+s1062
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+t1387261244
+s180
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+t1387261244
+s395
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+t1387261244
+s249
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+t1387261244
+s378
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+t1387261243
+s581
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+t1387261243
+s306
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+t1387261243
+s548
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+t1387261244
+s190
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+t1387261244
+s341
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+t1387261244
+s204
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+t1387261244
+s349
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+t1387261243
+s489
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+t1387261244
+s3526
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+t1387261244
+s4956
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+t1387261243
+s393
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+t1387261244
+s629
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+t1387261243
+s442
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+t1387261243
+s818
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+t1387261243
+s481
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+t1387261243
+s530
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+t1387261243
+s482
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+t1387261243
+s474
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+t1387261243
+s531
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+t1387261243
+s522
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+t1387261244
+s3704
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+t1387261244
+s5221
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+t1387261243
+s496
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+t1387261243
+s501
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+t1387261244
+s262
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+t1387261244
+s935
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+t1387261244
+s610
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+t1387261244
+s1223
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+t1387261243
+s608
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+t1387261244
+s278
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+t1387261244
+s1167
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+t1387261244
+s705
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+t1387261244
+s1371
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+t1387261244
+s275
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+t1387261244
+s394
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+t1387261244
+s330
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+t1387261244
+s456
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+t1387261243
+s597
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+t1387261243
+s515
+
+N/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+t1387261243
+s504
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesff95d9bb2460b841^0e87e5bb2460b841^---0#1#1#--18"Check dependencies36"D8664C26-275A-4B99-8C8E-C7E596AF9BB0-
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+s408954044.025287
+e408954044.056370
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+xResources/Images/SSAddressBarTextFieldBackground.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png429506bc2460b841^acab0ebc2460b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png0000000000000000^1257"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png36"C5949995-CF0A-483D-923E-F15FBD40BD05-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+s408954044.027072
+e408954044.060426
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+xResources/Images/SSAddressBarTextFieldBackground@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.pngb70907bc2460b841^488b0fbc2460b841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png0000000000000000^1269"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png36"B5D0209E-718E-416E-9857-44ADA12B846F-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+s408954044.028553
+e408954044.061035
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+xResources/Images/SSAddressBarTextFieldReload.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png986907bc2460b841^b5a80fbc2460b841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png0000000000000000^1241"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png36"502CC7A8-9560-435A-99E7-6A9CD5EC7081-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+s408954044.037674
+e408954044.071813
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+xResources/Images/SSAddressBarTextFieldReload@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png20d009bc2460b841^86c712bc2460b841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png0000000000000000^1253"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png36"04AAE23C-6D21-4031-B2C2-7E4F2E115964-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+s408954044.056628
+e408954044.090734
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+xResources/Images/SSAddressBarTextFieldStop.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png919a0ebc2460b841^1b6317bc2460b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png0000000000000000^1233"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png36"7E8F31FC-1863-44C0-9BE3-3FFCBEFF4F54-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+s408954044.061272
+e408954044.091111
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+xResources/Images/SSAddressBarTextFieldStop@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.pngbccd0fbc2460b841^317917bc2460b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png0000000000000000^1245"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png36"1C3FFB75-1D0B-40EC-9C85-7B24F7ADF92E-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+s408954044.061613
+e408954044.090715
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+xResources/Images/UISegmentBarButton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.pngbadd0fbc2460b841^4b5c17bc2460b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png0000000000000000^1205"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png36"D2FBFC1C-883E-4027-B814-0D0F71DB96D3-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+s408954044.072077
+e408954044.105115
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+xResources/Images/UISegmentBarButton@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png718e12bc2460b841^6f2d1bbc2460b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png0000000000000000^1217"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png36"3D60A7A3-C338-46BA-95A7-7BB4F56A26B0-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+s408954044.090993
+e408954044.122530
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+xResources/Images/UISegmentBarButtonHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.pngac7417bc2460b841^77841fbc2460b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png0000000000000000^1249"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png36"EB8AC224-085C-4E10-A087-1E5EE6E7C58B-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+s408954044.091633
+e408954044.123464
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+xResources/Images/UISegmentBarButtonHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.pngf69917bc2460b841^42b31fbc2460b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png0000000000000000^1261"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png36"EC17C562-5833-4136-86C4-A17ABD260732-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+s408954044.091956
+e408954044.121011
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+xResources/Images/UISegmentBarDivider.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.pngb8af17bc2460b841^ed4a1fbc2460b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png0000000000000000^1209"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png36"411BC1AF-C9EE-48C3-9CF7-547CBC72B163-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+s408954044.105377
+e408954044.138062
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+xResources/Images/UISegmentBarDivider@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png2f151bbc2460b841^0cac23bc2460b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png0000000000000000^1221"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png36"7C7537D0-DF64-41F1-9E55-4CFE7292DEB6-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+s408954044.121513
+e408954044.152610
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+xResources/Images/UISegmentBarDividerHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png76371fbc2460b841^e02e27bc2460b841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png0000000000000000^1253"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png36"E7853505-0182-4D3D-A0B4-C64CF830C86A-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+s408954044.123163
+e408954044.153882
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+xResources/Images/UISegmentBarDividerHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png2bc01fbc2460b841^81b427bc2460b841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png0000000000000000^1265"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png36"017B91DD-BF6E-4D1F-A504-BE4F69165122-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+s408954044.123658
+e408954044.154358
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+xResources/Images/action-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.pngf3e31fbc2460b841^9eb127bc2460b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button-mini.png0000000000000000^1205"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button-mini.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png36"26CBBDA0-8B30-4FB7-9FFC-12AE6B8028E9-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+s408954044.138537
+e408954044.173661
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+xResources/Images/action-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.pngff9323bc2460b841^4bcb2cbc2460b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png0000000000000000^1217"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png36"B17D87F1-408D-49C3-B416-29E1F9F2CF34-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+s408954044.152884
+e408954044.186843
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+xResources/Images/action-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png8a3e27bc2460b841^c80830bc2460b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button.png0000000000000000^1185"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png36"B65C5C3C-8CCD-4AAE-A828-BB9A4C743B64-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+s408954044.156156
+e408954044.190996
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+xResources/Images/action-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.pnga41828bc2460b841^baf330bc2460b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button@2x.png0000000000000000^1197"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/action-button@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png36"EEA3F73D-BA39-4E08-887D-6F8C6031168E-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+s408954044.157205
+e408954044.187904
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+xResources/Images/back-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.pnge25b28bc2460b841^734a30bc2460b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button-mini.png0000000000000000^1197"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button-mini.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png36"75D5DAE4-5981-4717-83AE-25A83BA73226-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+s408954044.173832
+e408954044.208380
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+xResources/Images/back-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png789a2cbc2460b841^9acf35bc2460b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png0000000000000000^1209"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png36"E8444E44-48DE-4B65-90B1-9678F859B563-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+s408954044.187007
+e408954044.219105
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+xResources/Images/back-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png1c3f30bc2460b841^0b4738bc2460b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button.png0000000000000000^1177"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png36"CA33F439-6DFE-4B15-B6D2-984578CC5E12-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+s408954044.188096
+e408954044.223885
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+xResources/Images/back-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png0e8430bc2460b841^d19039bc2460b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button@2x.png0000000000000000^1189"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/back-button@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png36"41183083-A610-44AA-9C8F-EB09A0490189-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+s408954044.193022
+e408954044.225232
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+xResources/Images/forward-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png0a8431bc2460b841^5fb239bc2460b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button-mini.png0000000000000000^1209"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button-mini.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png36"C30D8686-884C-4111-8D35-7CC0F5F04F28-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+s408954044.208669
+e408954044.242540
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+xResources/Images/forward-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.pngb98a35bc2460b841^9b713ebc2460b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png0000000000000000^1221"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png36"10C54BC2-6320-460E-9951-9FC6EEF58EB3-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+s408954044.219349
+e408954044.253559
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+xResources/Images/forward-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.pngdd4138bc2460b841^2d5d41bc2460b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button.png0000000000000000^1189"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png36"7A3F35AC-5301-484F-B5CC-234BF74B6723-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+s408954044.224163
+e408954044.255566
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+xResources/Images/forward-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png707c39bc2460b841^acac41bc2460b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button@2x.png0000000000000000^1201"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/forward-button@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png36"7A3BBEB1-3A70-445F-AABD-6479BAB544E9-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+s408954043.990655
+e408954044.025034
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+xResources/Images/gray-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png42b5fdbb2460b841^1dc806bc2460b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/gray-star.png0000000000000000^1169"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/gray-star.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png36"DF4182FC-8B61-4F83-82D6-FFBC69B659E3-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+s408954043.992048
+e408954044.028249
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+xResources/Images/gray-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.pnge010febb2460b841^a67d07bc2460b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/gray-star@2x.png0000000000000000^1181"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/gray-star@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png36"09BA373B-0C53-4724-B3E3-216AAB511E1B-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+s408954043.915799
+e408954043.990379
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+xResources/Images/hud-check.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.pnga795eabb2460b841^80b6fdbb2460b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-check.png0000000000000000^1169"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-check.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png36"15BD9530-05A0-446C-A2ED-1A582C81B902-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+s408954043.918067
+e408954044.001651
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+xResources/Images/hud-check@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.pngbb42ebbb2460b841^eecc00bc2460b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-check@2x.png0000000000000000^1181"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-check@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png36"413B5BF4-E7F7-49BE-BB3B-34B1E4D334B8-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+s408954043.918500
+e408954043.991188
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+xResources/Images/hud-x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.pngcc46ebbb2460b841^96ccfdbb2460b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-x.png0000000000000000^1153"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png36"EF94EB27-6324-46B1-9FBA-F38EF67D1FD0-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+s408954043.918889
+e408954043.994583
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+xResources/Images/hud-x@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png5e63ebbb2460b841^28f4febb2460b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-x@2x.png0000000000000000^1165"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/hud-x@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png36"3EC38753-8655-4D56-9496-0EAD1746EC11-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+s408954043.994812
+e408954044.026651
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+xResources/Images/orange-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png5dc5febb2460b841^03e906bc2460b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/orange-star.png0000000000000000^1177"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/orange-star.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png36"CE47E0B1-2E8A-43C3-933D-746DB5BB0E3F-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+s408954044.001917
+e408954044.036969
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+xResources/Images/orange-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png309b00bc2460b841^bc7a09bc2460b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/orange-star@2x.png0000000000000000^1189"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/orange-star@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png36"5CF5BA2E-34A9-47F3-A016-C2786FDCA843-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+s408954044.226090
+e408954044.256939
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+xResources/Images/reload-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png3bfc39bc2460b841^39d641bc2460b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button-mini.png0000000000000000^1205"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button-mini.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png36"4ECD6B10-B5F3-4C2E-A43E-1AC5002EB600-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+s408954044.242820
+e408954044.277239
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+xResources/Images/reload-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png30483ebc2460b841^145947bc2460b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png0000000000000000^1217"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png36"6EB96C9C-DC95-409A-BE3F-5591F97EF06F-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+s408954044.253812
+e408954044.286595
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+xResources/Images/reload-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png831741bc2460b841^23d749bc2460b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button.png0000000000000000^1185"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png36"424F0F6B-259C-4DB4-BF68-95B7679E98F7-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+s408954044.255698
+e408954044.289098
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+xResources/Images/reload-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.pngff9141bc2460b841^172b4abc2460b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button@2x.png0000000000000000^1197"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/reload-button@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png36"960A0EF4-6D66-46FB-87B3-6733E773439A-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+s408954044.258379
+e408954044.288969
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+xResources/Images/safari-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png814142bc2460b841^d9254abc2460b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button-mini.png0000000000000000^1205"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button-mini.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png36"59E92CC3-5EAD-454C-975B-A0971EE32DCB-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+s408954044.277500
+e408954044.311450
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+xResources/Images/safari-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png072647bc2460b841^691a50bc2460b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png0000000000000000^1217"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png36"384D0400-61D1-495F-812D-02E326194B59-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+s408954044.287204
+e408954044.319226
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+xResources/Images/safari-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png9da049bc2460b841^0fd451bc2460b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button.png0000000000000000^1185"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png36"105A27A0-73F4-4B3A-BA90-F2C3DEFAFA86-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+s408954044.289809
+e408954044.323237
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+xResources/Images/safari-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png1e6b4abc2460b841^fd1053bc2460b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button@2x.png0000000000000000^1197"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/safari-button@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png36"ADA15E01-9104-429C-B47D-00A56DE4D269-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+s408954044.290145
+e408954044.317985
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+xResources/Images/stop-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png0a644abc2460b841^658a51bc2460b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button-mini.png0000000000000000^1197"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button-mini.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png36"553C195F-58FA-4026-9789-6A720F71175E-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+s408954044.311698
+e408954044.342343
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+xResources/Images/stop-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.pngb4e64fbc2460b841^f8a857bc2460b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png0000000000000000^1209"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png36"E68AE16F-EB03-41C6-8951-FF6E3D4E8B92-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+s408954044.318635
+e408954044.343390
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+xResources/Images/stop-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png0cae51bc2460b841^81ea57bc2460b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button.png0000000000000000^1177"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png36"7E58C85A-F237-451D-9A13-1D4658DB479C-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyPNGFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+s408954044.319351
+e408954044.346171
+r1
+xCopyPNGFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+xResources/Images/stop-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.pngc9e351bc2460b841^87a258bc2460b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button@2x.png0000000000000000^1189"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/Images/stop-button@2x.png /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png36"1722F37D-142B-4459-BE39-2DBD6DB06F27-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+s408954043.903556
+e408954043.906479
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+xResources/de.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/de.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.stringsd57ae7bb2460b841^1d20e8bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj -- Resources/de.lproj/SSToolkit.strings36"E911F0C2-3F2A-45E2-8847-27F931F33DAA-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+s408954043.903339
+e408954043.906110
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+xResources/en.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/en.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.stringsf96ae7bb2460b841^e7fde7bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj -- Resources/en.lproj/SSToolkit.strings36"4A45E60C-E238-423E-9381-CC2892248A49-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+s408954043.903918
+e408954043.906135
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+xResources/es.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/es.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings2fa4e7bb2460b841^da04e8bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj -- Resources/es.lproj/SSToolkit.strings36"CD70B7E3-06F1-4D3C-B9D1-818FB77EFCFF-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+s408954043.904473
+e408954043.908229
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+xResources/fr.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/fr.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings0919e8bb2460b841^548fe8bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj -- Resources/fr.lproj/SSToolkit.strings36"981B9483-48B8-4B77-A270-E8C48B117596-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+s408954043.907154
+e408954043.909060
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+xResources/id.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/id.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.stringsb96ce8bb2460b841^9dbce8bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj -- Resources/id.lproj/SSToolkit.strings36"FB5B27C2-E678-4245-825D-FE35999CE90C-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+s408954043.907180
+e408954043.908970
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+xResources/it.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/it.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.stringsfa61e8bb2460b841^10aee8bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj -- Resources/it.lproj/SSToolkit.strings36"EF78339C-2AEE-4020-AE10-934AF369E576-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+s408954043.907907
+e408954043.910310
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+xResources/ja.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ja.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.stringsd7a3e8bb2460b841^be30e9bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj -- Resources/ja.lproj/SSToolkit.strings36"E0486C49-261D-4874-B68D-DC16794069A4-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+s408954043.908411
+e408954043.911597
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+xResources/ko.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ko.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings4eb3e8bb2460b841^9967e9bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj -- Resources/ko.lproj/SSToolkit.strings36"F270B998-06CA-4FC2-9BB0-28DA247B0461-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+s408954043.909467
+e408954043.912782
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+xResources/ms.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ms.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings6bf2e8bb2460b841^71aee9bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj -- Resources/ms.lproj/SSToolkit.strings36"A70BF593-B845-4CBB-B382-F2D4A36FA2A3-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+s408954043.909703
+e408954043.912675
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+xResources/nl.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/nl.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings4702e9bb2460b841^a4a6e9bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj -- Resources/nl.lproj/SSToolkit.strings36"730CFAE4-123F-432F-9FB6-AE45FB628139-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+s408954043.912268
+e408954043.913958
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+xResources/pt.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/pt.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings27a4e9bb2460b841^69fde9bb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj -- Resources/pt.lproj/SSToolkit.strings36"7B97E8F8-818A-4FCA-AFC9-D7E527FF0C08-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+s408954043.911228
+e408954043.913393
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+xResources/pt_PT.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy Resources/pt_PT.lproj/SSToolkit.strings111"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings7573e9bb2460b841^89d3e9bb2460b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings0000000000000000^1116"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj -- Resources/pt_PT.lproj/SSToolkit.strings36"6E88E658-3061-405F-B61D-68D7BBF6B75D-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+s408954043.913474
+e408954043.915566
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+xResources/ru.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ru.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings0b0beabb2460b841^c592eabb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj -- Resources/ru.lproj/SSToolkit.strings36"83F02462-DB75-43E7-9EF5-1AAEF46ADEF7-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+s408954043.913450
+e408954043.917114
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+xResources/sv.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/sv.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings5dfce9bb2460b841^3cbdeabb2460b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings0000000000000000^1104"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj -- Resources/sv.lproj/SSToolkit.strings36"2633A494-EFE8-4C09-B1A4-829B7E26ABC0-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+s408954043.914025
+e408954043.917441
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+xResources/zh_Hans.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hans.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings1e35eabb2460b841^1ae0eabb2460b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings0000000000000000^1124"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj -- Resources/zh_Hans.lproj/SSToolkit.strings36"3EF172A0-6EFE-4F5C-97F7-B077BCB684FA-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CCopyStringsFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+s408954043.914642
+e408954043.916948
+r1
+xCopyStringsFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+xResources/zh_Hant.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hant.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.stringsf641eabb2460b841^19c5eabb2460b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings0000000000000000^1124"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj -- Resources/zh_Hant.lproj/SSToolkit.strings36"4A935D5A-962A-4EB9-B74D-3A6628AA5C42-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CProcessInfoPlistFile /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+s408954043.900762
+e408954043.902579
+r1
+xProcessInfoPlistFile
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+x/Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Process /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist97"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plistb6bce6bb2460b841^5111e7bb2460b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist0000000000000000^1166"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist    cd /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools:/Users/liangyaotian/Documents/Android/android-sdk-macosx/platform-tools:/Users/liangyaotian/Documents/Java/gradle-1.8/bin:/Users/liangyaotian/Documents/Java/apache-ant-1.9.2/bin:/Users/liangyaotian/Documents/Java/apache-maven-3.1.1/bin:/Users/liangyaotian/Documents/Android/android-sdk-macosx/tools/proguard/bin:/Users/liangyaotian/Documents/Geek/Tech/Go/workspace/bin"    builtin-infoPlistUtility /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist36"9056EACF-0D33-4D81-ABA4-B974D6AC10B5-
+b2EEB4A32-5923-48A5-A094-ED138C9AA71C
+
+CTouch /Users/liangyaotian/Documents/iOS/project/iProjectFrame/Pods/SSToolkit/./SSToolkitResources.bundle
+r0
+
