@@ -13,7 +13,6 @@
 		383BF471186023D4001BBFC6 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383BF470186023D4001BBFC6 /* CoreData.framework */; };
 		383BF477186023D4001BBFC6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 383BF475186023D4001BBFC6 /* InfoPlist.strings */; };
 		383BF479186023D4001BBFC6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 383BF478186023D4001BBFC6 /* main.m */; };
-		383BF480186023D4001BBFC6 /* iProjectFrame.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 383BF47E186023D4001BBFC6 /* iProjectFrame.xcdatamodeld */; };
 		383BF482186023D4001BBFC6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 383BF481186023D4001BBFC6 /* Images.xcassets */; };
 		383BF489186023D4001BBFC6 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383BF488186023D4001BBFC6 /* XCTest.framework */; };
 		383BF48A186023D4001BBFC6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383BF46A186023D4001BBFC6 /* Foundation.framework */; };
@@ -25,13 +24,15 @@
 		383BF4AD18602717001BBFC6 /* iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 383BF4A918602717001BBFC6 /* iPad.storyboard */; };
 		383BF4AE18602717001BBFC6 /* iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 383BF4AB18602717001BBFC6 /* iPhone.storyboard */; };
 		383BF4B418602802001BBFC6 /* KWMHomeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383BF4B318602802001BBFC6 /* KWMHomeController.m */; };
-		383BF4B718602AA7001BBFC6 /* KWMFirstController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383BF4B618602AA7001BBFC6 /* KWMFirstController.m */; };
-		383BF4BA18602AB3001BBFC6 /* KWMSecondController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383BF4B918602AB3001BBFC6 /* KWMSecondController.m */; };
-		383BF4BD18602ABE001BBFC6 /* KWMThirdController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383BF4BC18602ABE001BBFC6 /* KWMThirdController.m */; };
 		383BF4C018602FB6001BBFC6 /* KWMMenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383BF4BF18602FB6001BBFC6 /* KWMMenuController.m */; };
 		383BF4C318603DB6001BBFC6 /* Test.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 383BF4C118603DB6001BBFC6 /* Test.storyboard */; };
+		383BF4D718619128001BBFC6 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 383BF4D518619128001BBFC6 /* Model.xcdatamodeld */; };
+		383BF4DA1861919C001BBFC6 /* KWMToDoItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 383BF4D91861919C001BBFC6 /* KWMToDoItem.m */; };
+		38FDFAF71862CCCE00D4D6B5 /* KWMTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 38FDFAF61862CCCE00D4D6B5 /* KWMTestController.m */; };
 		D47F1C1711F542DEA628305D /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A439C4795D4D44599F7B2C12 /* libPods.a */; };
 		E3E4A61B9B63EB6216185F46 /* KWMBaseController.m in Sources */ = {isa = PBXBuildFile; fileRef = E3E4A7435814AC7CDE46B3F5 /* KWMBaseController.m */; };
+		E3E4A7A60EAB21386D0910EB /* KWMDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = E3E4ADBB3790C3928A81A80C /* KWMDetailController.m */; };
+		E3E4A7D7E9543747396E53C4 /* KWMCoreDataController.m in Sources */ = {isa = PBXBuildFile; fileRef = E3E4A5054D52BA2A44FEC86B /* KWMCoreDataController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +55,6 @@
 		383BF476186023D4001BBFC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		383BF478186023D4001BBFC6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		383BF47A186023D4001BBFC6 /* iProjectFrame-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iProjectFrame-Prefix.pch"; sourceTree = "<group>"; };
-		383BF47F186023D4001BBFC6 /* iProjectFrame.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = iProjectFrame.xcdatamodel; sourceTree = "<group>"; };
 		383BF481186023D4001BBFC6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		383BF487186023D4001BBFC6 /* iProjectFrameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iProjectFrameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		383BF488186023D4001BBFC6 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -67,18 +67,21 @@
 		383BF4AC18602717001BBFC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = iPhone.storyboard; sourceTree = "<group>"; };
 		383BF4B218602802001BBFC6 /* KWMHomeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMHomeController.h; sourceTree = "<group>"; };
 		383BF4B318602802001BBFC6 /* KWMHomeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMHomeController.m; sourceTree = "<group>"; };
-		383BF4B518602AA7001BBFC6 /* KWMFirstController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMFirstController.h; sourceTree = "<group>"; };
-		383BF4B618602AA7001BBFC6 /* KWMFirstController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMFirstController.m; sourceTree = "<group>"; };
-		383BF4B818602AB3001BBFC6 /* KWMSecondController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMSecondController.h; sourceTree = "<group>"; };
-		383BF4B918602AB3001BBFC6 /* KWMSecondController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMSecondController.m; sourceTree = "<group>"; };
-		383BF4BB18602ABE001BBFC6 /* KWMThirdController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMThirdController.h; sourceTree = "<group>"; };
-		383BF4BC18602ABE001BBFC6 /* KWMThirdController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMThirdController.m; sourceTree = "<group>"; };
 		383BF4BE18602FB6001BBFC6 /* KWMMenuController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMMenuController.h; sourceTree = "<group>"; };
 		383BF4BF18602FB6001BBFC6 /* KWMMenuController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMMenuController.m; sourceTree = "<group>"; };
 		383BF4C218603DB6001BBFC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Test.storyboard; sourceTree = "<group>"; };
+		383BF4D618619128001BBFC6 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		383BF4D81861919C001BBFC6 /* KWMToDoItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMToDoItem.h; sourceTree = "<group>"; };
+		383BF4D91861919C001BBFC6 /* KWMToDoItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMToDoItem.m; sourceTree = "<group>"; };
+		38FDFAF51862CCCE00D4D6B5 /* KWMTestController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMTestController.h; sourceTree = "<group>"; };
+		38FDFAF61862CCCE00D4D6B5 /* KWMTestController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMTestController.m; sourceTree = "<group>"; };
 		A439C4795D4D44599F7B2C12 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		E3E4A15467DF7BC0AF39D9B7 /* KWMCoreDataController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMCoreDataController.h; sourceTree = "<group>"; };
 		E3E4A26DDF086F9C88A8B011 /* KWMBaseController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMBaseController.h; sourceTree = "<group>"; };
+		E3E4A5054D52BA2A44FEC86B /* KWMCoreDataController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMCoreDataController.m; sourceTree = "<group>"; };
 		E3E4A7435814AC7CDE46B3F5 /* KWMBaseController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMBaseController.m; sourceTree = "<group>"; };
+		E3E4AD4D58A28B95BA4DE846 /* KWMDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KWMDetailController.h; sourceTree = "<group>"; };
+		E3E4ADBB3790C3928A81A80C /* KWMDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KWMDetailController.m; sourceTree = "<group>"; };
 		F03419079E834DD39613FBA5 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -149,7 +152,6 @@
 				383BF49F18602654001BBFC6 /* Classes */,
 				383BF4A618602654001BBFC6 /* Resources */,
 				383BF481186023D4001BBFC6 /* Images.xcassets */,
-				383BF47E186023D4001BBFC6 /* iProjectFrame.xcdatamodeld */,
 				383BF473186023D4001BBFC6 /* Supporting Files */,
 			);
 			path = iProjectFrame;
@@ -210,6 +212,9 @@
 		383BF4A318602654001BBFC6 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				383BF4D518619128001BBFC6 /* Model.xcdatamodeld */,
+				383BF4D81861919C001BBFC6 /* KWMToDoItem.h */,
+				383BF4D91861919C001BBFC6 /* KWMToDoItem.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -264,16 +269,16 @@
 			children = (
 				383BF4B218602802001BBFC6 /* KWMHomeController.h */,
 				383BF4B318602802001BBFC6 /* KWMHomeController.m */,
-				383BF4B518602AA7001BBFC6 /* KWMFirstController.h */,
-				383BF4B618602AA7001BBFC6 /* KWMFirstController.m */,
-				383BF4B818602AB3001BBFC6 /* KWMSecondController.h */,
-				383BF4B918602AB3001BBFC6 /* KWMSecondController.m */,
-				383BF4BB18602ABE001BBFC6 /* KWMThirdController.h */,
-				383BF4BC18602ABE001BBFC6 /* KWMThirdController.m */,
 				383BF4BE18602FB6001BBFC6 /* KWMMenuController.h */,
 				383BF4BF18602FB6001BBFC6 /* KWMMenuController.m */,
 				E3E4A7435814AC7CDE46B3F5 /* KWMBaseController.m */,
 				E3E4A26DDF086F9C88A8B011 /* KWMBaseController.h */,
+				E3E4A5054D52BA2A44FEC86B /* KWMCoreDataController.m */,
+				E3E4A15467DF7BC0AF39D9B7 /* KWMCoreDataController.h */,
+				E3E4ADBB3790C3928A81A80C /* KWMDetailController.m */,
+				E3E4AD4D58A28B95BA4DE846 /* KWMDetailController.h */,
+				38FDFAF51862CCCE00D4D6B5 /* KWMTestController.h */,
+				38FDFAF61862CCCE00D4D6B5 /* KWMTestController.m */,
 			);
 			path = Universal;
 			sourceTree = "<group>";
@@ -413,15 +418,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				383BF480186023D4001BBFC6 /* iProjectFrame.xcdatamodeld in Sources */,
-				383BF4BD18602ABE001BBFC6 /* KWMThirdController.m in Sources */,
+				383BF4DA1861919C001BBFC6 /* KWMToDoItem.m in Sources */,
 				383BF479186023D4001BBFC6 /* main.m in Sources */,
 				383BF4B418602802001BBFC6 /* KWMHomeController.m in Sources */,
-				383BF4B718602AA7001BBFC6 /* KWMFirstController.m in Sources */,
 				383BF4A718602654001BBFC6 /* KWMAppDelegate.m in Sources */,
 				383BF4C018602FB6001BBFC6 /* KWMMenuController.m in Sources */,
-				383BF4BA18602AB3001BBFC6 /* KWMSecondController.m in Sources */,
+				38FDFAF71862CCCE00D4D6B5 /* KWMTestController.m in Sources */,
+				383BF4D718619128001BBFC6 /* Model.xcdatamodeld in Sources */,
 				E3E4A61B9B63EB6216185F46 /* KWMBaseController.m in Sources */,
+				E3E4A7D7E9543747396E53C4 /* KWMCoreDataController.m in Sources */,
+				E3E4A7A60EAB21386D0910EB /* KWMDetailController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -668,13 +674,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		383BF47E186023D4001BBFC6 /* iProjectFrame.xcdatamodeld */ = {
+		383BF4D518619128001BBFC6 /* Model.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				383BF47F186023D4001BBFC6 /* iProjectFrame.xcdatamodel */,
+				383BF4D618619128001BBFC6 /* Model.xcdatamodel */,
 			);
-			currentVersion = 383BF47F186023D4001BBFC6 /* iProjectFrame.xcdatamodel */;
-			path = iProjectFrame.xcdatamodeld;
+			currentVersion = 383BF4D618619128001BBFC6 /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

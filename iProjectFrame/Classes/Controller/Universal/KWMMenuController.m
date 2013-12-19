@@ -18,7 +18,7 @@
 
 - (void)awakeFromNib
 {
-    self.menuItems = [NSArray arrayWithObjects:@"First", @"Second", @"Third", nil];
+    self.menuItems = [NSArray arrayWithObjects:@"First", @"Second", @"Third", @"CoreData", nil];
 }
 
 - (void)viewDidLoad
@@ -43,7 +43,7 @@
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:cellIdentifier];
     }
     
-    cell.textLabel.text = [self.menuItems objectAtIndex:indexPath.row];
+    cell.textLabel.text = [self.menuItems objectAtIndex:(NSUInteger) indexPath.row];
     
     return cell;
 }
@@ -54,7 +54,7 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    NSString *identifier = [self.menuItems objectAtIndex:indexPath.row];
+    NSString *identifier = [self.menuItems objectAtIndex:(NSUInteger) indexPath.row];
     
     UIViewController *newTopViewController = [self.storyboard instantiateViewControllerWithIdentifier:identifier];
     

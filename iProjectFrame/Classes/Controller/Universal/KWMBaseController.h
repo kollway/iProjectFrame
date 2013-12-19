@@ -6,7 +6,7 @@
 #import <Foundation/Foundation.h>
 
 
-@interface KWMBaseController : UIViewController
+@interface KWMBaseController : UINavigationController
 
 - (IBAction)revealMenu:(id)sender;
 
