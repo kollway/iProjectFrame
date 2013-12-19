@@ -11,5 +11,6 @@
 @interface KWMDetailController : UIViewController
 
 @property (nonatomic, strong) KWMToDoItem *detailItem;
+@property (weak, nonatomic) IBOutlet UILabel *titleLabel;
 
 @end

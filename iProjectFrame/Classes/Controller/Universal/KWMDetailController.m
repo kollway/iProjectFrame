@@ -10,5 +10,13 @@
 @implementation KWMDetailController {
 
 }
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    if(self.detailItem != nil){
+        self.titleLabel.text = self.detailItem.title;
+    }else{
+        self.titleLabel.text = @"No data";
+    }
+}
 
 @end

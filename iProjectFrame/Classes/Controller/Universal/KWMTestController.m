@@ -9,11 +9,24 @@
 #import "KWMTestController.h"
 
 @interface KWMTestController ()
+
+- (IBAction)toggleEditing:(id)sender;
+
 @end
 
 @implementation KWMTestController
 
 NSMutableArray *datas;
+
+- (IBAction)toggleEditing:(id)sender {
+    BOOL isEditing = self.dataTableView.isEditing;
+    [self.dataTableView setEditing:!isEditing animated:YES];
+    if(!isEditing){
+        self.navigationItem.rightBarButtonItem.title = @"Done";
+    }else{
+        self.navigationItem.rightBarButtonItem.title = @"Edit";
+    }
+}
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -38,7 +51,6 @@ NSMutableArray *datas;
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning
@@ -64,6 +76,19 @@ NSMutableArray *datas;
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
     return 1;
+}
+
+- (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath {
+    return YES;
+}
+
+- (void)tableView:(UITableView *)tableView
+        commitEditingStyle:(UITableViewCellEditingStyle)editingStyle
+         forRowAtIndexPath:(NSIndexPath *)indexPath {
+    NSLog(@"editingStyle=%d", editingStyle);
+    if (editingStyle == UITableViewCellEditingStyleDelete) {
+
+    }
 }
 
 #pragma mark UITableViewDelegate
